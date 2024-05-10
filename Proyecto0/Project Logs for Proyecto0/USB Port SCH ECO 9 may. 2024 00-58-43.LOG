@@ -1,0 +1,5 @@
+Change Component Parameter Comment in XTAL? Old= New=12 MHz
+Added Parameter Frequency=12 MHz to Part XTAL?
+Added Parameter Manufacturer=Abracom to Part XTAL?
+Added Parameter Series=ABM8G to Part XTAL?
+Replace Symbol from XTAL? XTAL_12MHz in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB Port.SchDoc with XTAL_12MHz from Integrated_Circuits.IntLib

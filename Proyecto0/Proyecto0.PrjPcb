@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZIUFVCMP
 
 [Document3]
-DocumentPath=Ports.SchDoc
+DocumentPath=USB Port.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -160,23 +160,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YFDIITKF
 
 [Document8]
-DocumentPath=Recortes.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PCTGXZUT
-
-[Document9]
 DocumentPath=Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLLCUJES
 
-[Document10]
+[Document9]
 DocumentPath=Leds_and_Buttons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,6 +192,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBYAUXLM
+
+[Document10]
+DocumentPath=Bank_A-B-C-D.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KIVFDVGE
 
 [Configuration1]
 Name=Sources
@@ -330,6 +330,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -341,6 +351,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1145,12 +1165,12 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=LibreriaIntegrada_Proyecto0.IntLib
-ComponentDesignItemID0=ADP5052
-ComponentSymbolReference0=ADP5052
+ComponentLibraryIdentifier0=Integrated_Circuits.IntLib
+ComponentDesignItemID0=FT2232HL
+ComponentSymbolReference0=FT2232HL
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-FullReplace=0
+FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=1
@@ -1171,14 +1191,24 @@ ParameterName2=ComponentLink1Description
 ParameterUpdate2=1
 ParameterName3=ComponentLink1URL
 ParameterUpdate3=1
-ParameterName4=Description
+ParameterName4=ComponentLink2Description
 ParameterUpdate4=1
-ParameterName5=Library Reference
+ParameterName5=ComponentLink2URL
 ParameterUpdate5=1
+ParameterName6=Description
+ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=Manufacturer
+ParameterUpdate8=1
+ParameterName9=Package
+ParameterUpdate9=1
+ParameterName10=PartNumber
+ParameterUpdate10=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=LFCSP-48
+ModelName0=LQPF-64
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
