@@ -1,10 +1,11 @@
 Record=TopLevelDocument|FileName=TOP_Sheet.SchDoc|SheetNumber=2
 Record=SheetSymbol|SourceDocument=TOP_Sheet.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Power_Supply.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power_Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Bank_A-B-C-D.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Bank_A-B-C-D.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=BlockDiagram.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=DDR_Memory.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=DDR_Memory.SchDoc|SheetNumber=9
 Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Flash_Memory.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=FPGA.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Leds_and_Buttons.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=FPGA_Ports.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=FPGA_Power.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Leds_and_Buttons.SchDoc|SheetNumber=10
 Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Peripherics.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=USB Port.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=USB_Port_FTT.SchDoc|SheetNumber=4

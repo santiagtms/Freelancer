@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZIUFVCMP
 
 [Document3]
-DocumentPath=USB Port.SchDoc
+DocumentPath=USB_Port_FTT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -126,7 +126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WOQTUUDL
 
 [Document6]
-DocumentPath=FPGA.SchDoc
+DocumentPath=FPGA_Ports.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -143,6 +143,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ROUZZLBZ
 
 [Document7]
+DocumentPath=FPGA_Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HWZUJPYM
+
+[Document8]
 DocumentPath=DDR_Memory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFDIITKF
 
-[Document8]
+[Document9]
 DocumentPath=Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLLCUJES
 
-[Document9]
+[Document10]
 DocumentPath=Leds_and_Buttons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBYAUXLM
 
-[Document10]
+[Document11]
 DocumentPath=Bank_A-B-C-D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
