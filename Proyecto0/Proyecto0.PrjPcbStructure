@@ -8,4 +8,6 @@ Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=FPGA_Ports.Sc
 Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=FPGA_Power.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Leds_and_Buttons.SchDoc|SheetNumber=10
 Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Peripherics.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Power_Selector.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=Recortes.SchDoc|SheetNumber=13
 Record=NoMainPathDocument|SourceDocument=TOP_Sheet.SchDoc|FileName=USB_Port_FTT.SchDoc|SheetNumber=4

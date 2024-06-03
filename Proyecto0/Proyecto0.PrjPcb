@@ -227,6 +227,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIVFDVGE
 
+[Document12]
+DocumentPath=Power_Selector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ATVCENTY
+
+[Document13]
+DocumentPath=Recortes.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DRHZDECI
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -347,16 +381,6 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -368,16 +392,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1183,8 +1197,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Integrated_Circuits.IntLib
-ComponentDesignItemID0=FT2232HL
-ComponentSymbolReference0=FT2232HL
+ComponentDesignItemID0=BD2204GUL
+ComponentSymbolReference0=BD2204GUL
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1212,20 +1226,24 @@ ParameterName4=ComponentLink2Description
 ParameterUpdate4=1
 ParameterName5=ComponentLink2URL
 ParameterUpdate5=1
-ParameterName6=Description
+ParameterName6=ComponentLink3Description
 ParameterUpdate6=1
-ParameterName7=Library Reference
+ParameterName7=ComponentLink3URL
 ParameterUpdate7=1
-ParameterName8=Manufacturer
+ParameterName8=Description
 ParameterUpdate8=1
-ParameterName9=Package
+ParameterName9=Library Reference
 ParameterUpdate9=1
-ParameterName10=PartNumber
+ParameterName10=Manufacturer
 ParameterUpdate10=1
+ParameterName11=Package
+ParameterUpdate11=1
+ParameterName12=PartNumber
+ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=LQPF-64
+ModelName0=UFBGA-6 (VCSP50L1)
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
