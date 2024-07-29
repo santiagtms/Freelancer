@@ -109,23 +109,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QIUPVXCU
 
 [Document5]
-DocumentPath=Peripherics.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WOQTUUDL
-
-[Document6]
 DocumentPath=FPGA_Power&Ports.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROUZZLBZ
 
-[Document7]
+[Document6]
 DocumentPath=DDR_Memory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFDIITKF
 
-[Document8]
+[Document7]
 DocumentPath=Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLLCUJES
 
-[Document9]
+[Document8]
 DocumentPath=Leds_and_Buttons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBYAUXLM
 
-[Document10]
+[Document9]
 DocumentPath=Bank_A-B-C-D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,24 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIVFDVGE
 
-[Document11]
-DocumentPath=Power_Selector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ATVCENTY
-
-[Document12]
+[Document10]
 DocumentPath=Recortes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1179,9 +1145,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Integrated_Circuits.IntLib
-ComponentDesignItemID0=BD2204GUL
-ComponentSymbolReference0=BD2204GUL
+ComponentLibraryIdentifier0=Connectors.IntLib
+ComponentDesignItemID0=528850574
+ComponentSymbolReference0=528850574
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1209,24 +1175,18 @@ ParameterName4=ComponentLink2Description
 ParameterUpdate4=1
 ParameterName5=ComponentLink2URL
 ParameterUpdate5=1
-ParameterName6=ComponentLink3Description
+ParameterName6=Description
 ParameterUpdate6=1
-ParameterName7=ComponentLink3URL
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=Description
+ParameterName8=Manufacturer
 ParameterUpdate8=1
-ParameterName9=Library Reference
+ParameterName9=PinCount
 ParameterUpdate9=1
-ParameterName10=Manufacturer
-ParameterUpdate10=1
-ParameterName11=Package
-ParameterUpdate11=1
-ParameterName12=PartNumber
-ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=UFBGA-6 (VCSP50L1)
+ModelName0=528850574
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
