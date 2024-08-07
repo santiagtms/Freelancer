@@ -1,0 +1,141 @@
+Added Component: Designator=C70(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/kemet/C0805C474K4RAC7800/2212885?s=N4IgTCBcDaIMIAYAcCCscAsB2DBpDASgIJwAqAqiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ProductPage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.kemet.com/en/us/product/C0805C474K4RACTU.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0805C474K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C71(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/kemet/C0805C474K4RAC7800/2212885?s=N4IgTCBcDaIMIAYAcCCscAsB2DBpDASgIJwAqAqiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ProductPage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.kemet.com/en/us/product/C0805C474K4RACTU.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0805C474K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C72(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/kemet/C0805C474K4RAC7800/2212885?s=N4IgTCBcDaIMIAYAcCCscAsB2DBpDASgIJwAqAqiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ProductPage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.kemet.com/en/us/product/C0805C474K4RACTU.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0805C474K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C73(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/kemet/C0805C474K4RAC7800/2212885?s=N4IgTCBcDaIMIAYAcCCscAsB2DBpDASgIJwAqAqiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ProductPage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.kemet.com/en/us/product/C0805C474K4RACTU.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0805C474K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C74(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/kemet/C0805C474K4RAC7800/2212885?s=N4IgTCBcDaIMIAYAcCCscAsB2DBpDASgIJwAqAqiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ProductPage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.kemet.com/en/us/product/C0805C474K4RACTU.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0805C474K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C75(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/kemet/C0805C474K4RAC7800/2212885?s=N4IgTCBcDaIMIAYAcCCscAsB2DBpDASgIJwAqAqiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ProductPage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.kemet.com/en/us/product/C0805C474K4RACTU.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0805C474K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C76(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/kemet/C0805C474K4RAC7800/2212885?s=N4IgTCBcDaIMIAYAcCCscAsB2DBpDASgIJwAqAqiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ProductPage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.kemet.com/en/us/product/C0805C474K4RACTU.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0805C474K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C77(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/kemet/C0805C474K4RAC7800/2212885?s=N4IgTCBcDaIMIAYAcCCscAsB2DBpDASgIJwAqAqiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ProductPage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.kemet.com/en/us/product/C0805C474K4RACTU.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0805C474K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C78(CAP0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/kemet/C0805C474K4RAC7800/2212885?s=N4IgTCBcDaIMIAYAcCCscAsB2DBpDASgIJwAqAqiALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ProductPage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.kemet.com/en/us/product/C0805C474K4RACTU.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0805C474K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Added Component: Designator=C79(CAP0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0603C105K4RAC7867/2199788"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C80(CAP0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0603C103K4RAC7867/2199755?s=N4IgTCBcDaIMIAYBsCDMcCMaDSAWASgIJwDsAHEiSALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactuer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C103K4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=+1V35 Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=+1V35 Pin=C71-2
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=+1V35 Pin=C72-2
+Added Pin To Net: NetName=GND Pin=C73-1
+Added Pin To Net: NetName=+1V35 Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=+1V35 Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=+1V35 Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=+1V35 Pin=C76-2
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=+1V35 Pin=C77-2
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=+1V35 Pin=C78-2
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=0V75 Pin=C79-2
+Added Pin To Net: NetName=GND Pin=C80-1
+Added Pin To Net: NetName=0V75 Pin=C80-2
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C70 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C71 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C72 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C73 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C74 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C75 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C76 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C77 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C78 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C79 1uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C80 10nF
