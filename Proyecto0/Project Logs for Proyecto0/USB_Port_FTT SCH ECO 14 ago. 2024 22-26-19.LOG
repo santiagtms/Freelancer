@@ -1,0 +1,9 @@
+Replace Part CNT1 USB-C in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB_Port_FTT.SchDoc with USB-C from Connectors.IntLib
+Replace Part D1 ESD321 in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB_Port_FTT.SchDoc with ESD321 from Pasivos.IntLib
+Replace Part D2 ESD321 in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB_Port_FTT.SchDoc with ESD321 from Pasivos.IntLib
+Replace Part L1 HZ0603C651R-10 in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB_Port_FTT.SchDoc with HZ0603C651R-10 from Pasivos.IntLib
+Replace Part L2 HZ0603C651R-10 in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB_Port_FTT.SchDoc with HZ0603C651R-10 from Pasivos.IntLib
+Replace Part S1 SK34A in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB_Port_FTT.SchDoc with SK34A from Integrated_Circuits.IntLib
+Replace Part U1 FT2232HL in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB_Port_FTT.SchDoc with FT2232HL from Integrated_Circuits.IntLib
+Replace Part U2 EEPROM in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB_Port_FTT.SchDoc with EEPROM from Integrated_Circuits.IntLib
+Replace Part XTAL1 XTAL_12MHz in E:\Santiago\Diseño PCB\Proyecto0\Proyecto0\USB_Port_FTT.SchDoc with XTAL_12MHz from Integrated_Circuits.IntLib

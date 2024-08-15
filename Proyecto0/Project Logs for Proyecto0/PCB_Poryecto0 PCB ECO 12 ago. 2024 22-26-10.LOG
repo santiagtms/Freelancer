@@ -1,0 +1,236 @@
+Added Component: Designator=CNT2(528850574)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/es/products/detail/molex/0528850574/3197085?s=N4IgTCBcDaIAQFYwA5kIAwIOwBYQF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/en-us/products/part-detail/528850574?display=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=CNT3(528850574)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/es/products/detail/molex/0528850574/3197085?s=N4IgTCBcDaIAQFYwA5kIAwIOwBYQF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/en-us/products/part-detail/528850574?display=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=CNT4(528850574)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/es/products/detail/molex/0528850574/3197085?s=N4IgTCBcDaIAQFYwA5kIAwIOwBYQF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/en-us/products/part-detail/528850574?display=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=CNT5(528850574)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/es/products/detail/molex/0528850574/3197085?s=N4IgTCBcDaIAQFYwA5kIAwIOwBYQF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/en-us/products/part-detail/528850574?display=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "50"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=CNT2-1
+Added Pin To Net: NetName=R15 Pin=CNT2-2
+Added Pin To Net: NetName=R16 Pin=CNT2-3
+Added Pin To Net: NetName=GND Pin=CNT2-4
+Added Pin To Net: NetName=T14 Pin=CNT2-5
+Added Pin To Net: NetName=T15 Pin=CNT2-6
+Added Pin To Net: NetName=+3V3 Pin=CNT2-7
+Added Pin To Net: NetName=N11 Pin=CNT2-8
+Added Pin To Net: NetName=N12 Pin=CNT2-9
+Added Pin To Net: NetName=GND Pin=CNT2-10
+Added Pin To Net: NetName=R12 Pin=CNT2-11
+Added Pin To Net: NetName=T12 Pin=CNT2-12
+Added Pin To Net: NetName=+3V3 Pin=CNT2-13
+Added Pin To Net: NetName=R10 Pin=CNT2-14
+Added Pin To Net: NetName=R11 Pin=CNT2-15
+Added Pin To Net: NetName=GND Pin=CNT2-16
+Added Pin To Net: NetName=M6 Pin=CNT2-17
+Added Pin To Net: NetName=N6 Pin=CNT2-18
+Added Pin To Net: NetName=+3V3 Pin=CNT2-19
+Added Pin To Net: NetName=T7 Pin=CNT2-20
+Added Pin To Net: NetName=T8 Pin=CNT2-21
+Added Pin To Net: NetName=GND Pin=CNT2-22
+Added Pin To Net: NetName=R5 Pin=CNT2-23
+Added Pin To Net: NetName=T5 Pin=CNT2-24
+Added Pin To Net: NetName=+3V3 Pin=CNT2-25
+Added Pin To Net: NetName=+3V3 Pin=CNT2-26
+Added Pin To Net: NetName=R7 Pin=CNT2-27
+Added Pin To Net: NetName=R6 Pin=CNT2-28
+Added Pin To Net: NetName=GND Pin=CNT2-29
+Added Pin To Net: NetName=T10 Pin=CNT2-30
+Added Pin To Net: NetName=T9 Pin=CNT2-31
+Added Pin To Net: NetName=+3V3 Pin=CNT2-32
+Added Pin To Net: NetName=R8 Pin=CNT2-33
+Added Pin To Net: NetName=P8 Pin=CNT2-34
+Added Pin To Net: NetName=GND Pin=CNT2-35
+Added Pin To Net: NetName=P9 Pin=CNT2-36
+Added Pin To Net: NetName=N9 Pin=CNT2-37
+Added Pin To Net: NetName=+3V3 Pin=CNT2-38
+Added Pin To Net: NetName=T13 Pin=CNT2-39
+Added Pin To Net: NetName=R13 Pin=CNT2-40
+Added Pin To Net: NetName=GND Pin=CNT2-41
+Added Pin To Net: NetName=P11 Pin=CNT2-42
+Added Pin To Net: NetName=P10 Pin=CNT2-43
+Added Pin To Net: NetName=+3V3 Pin=CNT2-44
+Added Pin To Net: NetName=P13 Pin=CNT2-45
+Added Pin To Net: NetName=N13 Pin=CNT2-46
+Added Pin To Net: NetName=GND Pin=CNT2-47
+Added Pin To Net: NetName=P14 Pin=CNT2-48
+Added Pin To Net: NetName=M15 Pin=CNT2-49
+Added Pin To Net: NetName=+5V Pin=CNT2-50
+Added Pin To Net: NetName=+5V Pin=CNT3-1
+Added Pin To Net: NetName=L4 Pin=CNT3-2
+Added Pin To Net: NetName=M4 Pin=CNT3-3
+Added Pin To Net: NetName=GND Pin=CNT3-4
+Added Pin To Net: NetName=N3 Pin=CNT3-5
+Added Pin To Net: NetName=N2 Pin=CNT3-6
+Added Pin To Net: NetName=+3V3 Pin=CNT3-7
+Added Pin To Net: NetName=P4 Pin=CNT3-8
+Added Pin To Net: NetName=P3 Pin=CNT3-9
+Added Pin To Net: NetName=GND Pin=CNT3-10
+Added Pin To Net: NetName=R2 Pin=CNT3-11
+Added Pin To Net: NetName=R1 Pin=CNT3-12
+Added Pin To Net: NetName=+3V3 Pin=CNT3-13
+Added Pin To Net: NetName=T4 Pin=CNT3-14
+Added Pin To Net: NetName=T3 Pin=CNT3-15
+Added Pin To Net: NetName=GND Pin=CNT3-16
+Added Pin To Net: NetName=H5 Pin=CNT3-17
+Added Pin To Net: NetName=H4 Pin=CNT3-18
+Added Pin To Net: NetName=+3V3 Pin=CNT3-19
+Added Pin To Net: NetName=H2 Pin=CNT3-20
+Added Pin To Net: NetName=H1 Pin=CNT3-21
+Added Pin To Net: NetName=GND Pin=CNT3-22
+Added Pin To Net: NetName=K1 Pin=CNT3-23
+Added Pin To Net: NetName=J1 Pin=CNT3-24
+Added Pin To Net: NetName=+3V3 Pin=CNT3-25
+Added Pin To Net: NetName=+3V3 Pin=CNT3-26
+Added Pin To Net: NetName=L2 Pin=CNT3-27
+Added Pin To Net: NetName=L3 Pin=CNT3-28
+Added Pin To Net: NetName=GND Pin=CNT3-29
+Added Pin To Net: NetName=H3 Pin=CNT3-30
+Added Pin To Net: NetName=J3 Pin=CNT3-31
+Added Pin To Net: NetName=+3V3 Pin=CNT3-32
+Added Pin To Net: NetName=J4 Pin=CNT3-33
+Added Pin To Net: NetName=J5 Pin=CNT3-34
+Added Pin To Net: NetName=GND Pin=CNT3-35
+Added Pin To Net: NetName=G1 Pin=CNT3-36
+Added Pin To Net: NetName=G2 Pin=CNT3-37
+Added Pin To Net: NetName=+3V3 Pin=CNT3-38
+Added Pin To Net: NetName=T2 Pin=CNT3-39
+Added Pin To Net: NetName=R3 Pin=CNT3-40
+Added Pin To Net: NetName=GND Pin=CNT3-41
+Added Pin To Net: NetName=N4 Pin=CNT3-42
+Added Pin To Net: NetName=N5 Pin=CNT3-43
+Added Pin To Net: NetName=+3V3 Pin=CNT3-44
+Added Pin To Net: NetName=P1 Pin=CNT3-45
+Added Pin To Net: NetName=N1 Pin=CNT3-46
+Added Pin To Net: NetName=GND Pin=CNT3-47
+Added Pin To Net: NetName=M1 Pin=CNT3-48
+Added Pin To Net: NetName=M2 Pin=CNT3-49
+Added Pin To Net: NetName=+5V Pin=CNT3-50
+Added Pin To Net: NetName=+5V Pin=CNT4-1
+Added Pin To Net: NetName=LED0 Pin=CNT4-2
+Added Pin To Net: NetName=LED1 Pin=CNT4-3
+Added Pin To Net: NetName=GND Pin=CNT4-4
+Added Pin To Net: NetName=LED5 Pin=CNT4-5
+Added Pin To Net: NetName=LED4 Pin=CNT4-6
+Added Pin To Net: NetName=+3V3 Pin=CNT4-7
+Added Pin To Net: NetName=UART_TX Pin=CNT4-8
+Added Pin To Net: NetName=UART_RX Pin=CNT4-9
+Added Pin To Net: NetName=GND Pin=CNT4-10
+Added Pin To Net: NetName=K3 Pin=CNT4-11
+Added Pin To Net: NetName=K2 Pin=CNT4-12
+Added Pin To Net: NetName=+3V3 Pin=CNT4-13
+Added Pin To Net: NetName=+1V8 Pin=CNT4-14
+Added Pin To Net: NetName=+1V8 Pin=CNT4-15
+Added Pin To Net: NetName=GND Pin=CNT4-16
+Added Pin To Net: NetName=IN_Filter_ADC_P Pin=CNT4-17
+Added Pin To Net: NetName=IN_Filter_ADC_N Pin=CNT4-18
+Added Pin To Net: NetName=+3V3 Pin=CNT4-19
+Added Pin To Net: NetName=CONFIG_TDO Pin=CNT4-20
+Added Pin To Net: NetName=CONFIG_TDI Pin=CNT4-21
+Added Pin To Net: NetName=GND Pin=CNT4-22
+Added Pin To Net: NetName=DONE Pin=CNT4-23
+Added Pin To Net: NetName=PROGRAM_B Pin=CNT4-24
+Added Pin To Net: NetName=+3V3 Pin=CNT4-25
+Added Pin To Net: NetName=+3V3 Pin=CNT4-26
+Added Pin To Net: NetName=P5 Pin=CNT4-27
+Added Pin To Net: NetName=L5 Pin=CNT4-28
+Added Pin To Net: NetName=GND Pin=CNT4-29
+Added Pin To Net: NetName=CONFIG_TCK Pin=CNT4-30
+Added Pin To Net: NetName=CONFIG_TMS Pin=CNT4-31
+Added Pin To Net: NetName=+3V3 Pin=CNT4-32
+Added Pin To Net: NetName=+1V8 Pin=CNT4-33
+Added Pin To Net: NetName=VSelect Pin=CNT4-34
+Added Pin To Net: NetName=GND Pin=CNT4-35
+Added Pin To Net: NetName=AGND Pin=CNT4-36
+Added Pin To Net: NetName=+1V25_VREF_ADC Pin=CNT4-37
+Added Pin To Net: NetName=+3V3 Pin=CNT4-38
+Added Pin To Net: NetName=K5 Pin=CNT4-39
+Added Pin To Net: NetName=E6 Pin=CNT4-40
+Added Pin To Net: NetName=GND Pin=CNT4-41
+Added Pin To Net: NetName=RESET Pin=CNT4-42
+Added Pin To Net: NetName=100MHz Pin=CNT4-43
+Added Pin To Net: NetName=+3V3 Pin=CNT4-44
+Added Pin To Net: NetName=LED6 Pin=CNT4-45
+Added Pin To Net: NetName=LED7 Pin=CNT4-46
+Added Pin To Net: NetName=GND Pin=CNT4-47
+Added Pin To Net: NetName=LED2 Pin=CNT4-48
+Added Pin To Net: NetName=LED3 Pin=CNT4-49
+Added Pin To Net: NetName=+5V Pin=CNT4-50
+Added Pin To Net: NetName=+5V Pin=CNT5-1
+Added Pin To Net: NetName=B7 Pin=CNT5-2
+Added Pin To Net: NetName=A6 Pin=CNT5-3
+Added Pin To Net: NetName=GND Pin=CNT5-4
+Added Pin To Net: NetName=A5 Pin=CNT5-5
+Added Pin To Net: NetName=A4 Pin=CNT5-6
+Added Pin To Net: NetName=+3V3 Pin=CNT5-7
+Added Pin To Net: NetName=C7 Pin=CNT5-8
+Added Pin To Net: NetName=C6 Pin=CNT5-9
+Added Pin To Net: NetName=GND Pin=CNT5-10
+Added Pin To Net: NetName=C3 Pin=CNT5-11
+Added Pin To Net: NetName=C2 Pin=CNT5-12
+Added Pin To Net: NetName=+3V3 Pin=CNT5-13
+Added Pin To Net: NetName=C1 Pin=CNT5-14
+Added Pin To Net: NetName=B1 Pin=CNT5-15
+Added Pin To Net: NetName=GND Pin=CNT5-16
+Added Pin To Net: NetName=E3 Pin=CNT5-17
+Added Pin To Net: NetName=D3 Pin=CNT5-18
+Added Pin To Net: NetName=+3V3 Pin=CNT5-19
+Added Pin To Net: NetName=F5 Pin=CNT5-20
+Added Pin To Net: NetName=E5 Pin=CNT5-21
+Added Pin To Net: NetName=GND Pin=CNT5-22
+Added Pin To Net: NetName=F2 Pin=CNT5-23
+Added Pin To Net: NetName=E1 Pin=CNT5-24
+Added Pin To Net: NetName=+3V3 Pin=CNT5-25
+Added Pin To Net: NetName=+3V3 Pin=CNT5-26
+Added Pin To Net: NetName=G4 Pin=CNT5-27
+Added Pin To Net: NetName=G5 Pin=CNT5-28
+Added Pin To Net: NetName=GND Pin=CNT5-29
+Added Pin To Net: NetName=F3 Pin=CNT5-30
+Added Pin To Net: NetName=F4 Pin=CNT5-31
+Added Pin To Net: NetName=+3V3 Pin=CNT5-32
+Added Pin To Net: NetName=C4 Pin=CNT5-33
+Added Pin To Net: NetName=D4 Pin=CNT5-34
+Added Pin To Net: NetName=GND Pin=CNT5-35
+Added Pin To Net: NetName=D1 Pin=CNT5-36
+Added Pin To Net: NetName=E2 Pin=CNT5-37
+Added Pin To Net: NetName=+3V3 Pin=CNT5-38
+Added Pin To Net: NetName=A2 Pin=CNT5-39
+Added Pin To Net: NetName=B2 Pin=CNT5-40
+Added Pin To Net: NetName=GND Pin=CNT5-41
+Added Pin To Net: NetName=D5 Pin=CNT5-42
+Added Pin To Net: NetName=D6 Pin=CNT5-43
+Added Pin To Net: NetName=+3V3 Pin=CNT5-44
+Added Pin To Net: NetName=A3 Pin=CNT5-45
+Added Pin To Net: NetName=B4 Pin=CNT5-46
+Added Pin To Net: NetName=GND Pin=CNT5-47
+Added Pin To Net: NetName=B5 Pin=CNT5-48
+Added Pin To Net: NetName=B6 Pin=CNT5-49
+Added Pin To Net: NetName=+5V Pin=CNT5-50
+Added Member To Class: ClassName=U_Bank_A-B-C-D Member=Component CNT2 528850574
+Added Member To Class: ClassName=U_Bank_A-B-C-D Member=Component CNT3 528850574
+Added Member To Class: ClassName=U_Bank_A-B-C-D Member=Component CNT4 528850574
+Added Member To Class: ClassName=U_Bank_A-B-C-D Member=Component CNT5 528850574
