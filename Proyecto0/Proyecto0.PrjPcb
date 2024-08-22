@@ -194,7 +194,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KVPGXSHM
 
 [Document10]
-DocumentPath=PCB_Poryecto0.PcbDoc
+DocumentPath=Proyecto_0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,7 +208,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XRXHOTHF
+DocumentUniqueId=OTRKMDWJ
 
 [GeneratedDocument1]
 DocumentPath=MessageListReport.html
@@ -1226,6 +1226,7 @@ Net1=NetName=+1V|NetColor=$00FFFF6E
 Net2=NetName=+1V35|NetColor=clYellow
 Net3=NetName=+1V8|NetColor=$006EFF6E
 Net4=NetName=+3V3|NetColor=$00FF6E6E
+Net5=NetName=+3V3/+1V8|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
