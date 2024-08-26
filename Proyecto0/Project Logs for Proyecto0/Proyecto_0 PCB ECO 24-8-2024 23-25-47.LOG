@@ -1,0 +1,48 @@
+Change Component Footprint: Designator=C85 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Footprint: Designator=C89 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Footprint: Designator=C93 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Footprint: Designator=C96 Old Footprint=CAP0603 New Footprint=CAP0402
+Change component parameters: Designator = "C85" ("C85"); Footprint = "CAP0603"; UniqueID = "\VXLQHOQK\NVCPDEBQ\WKSPQWMY" ("\VXLQHOQK\NVCPDEBQ\WKSPQWMY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/filter/ceramic-capacitors/60?s=N4IgTCBcDaIMIAYAsCxwIzINJIEoEE4QBdAXyA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactuer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "C0402C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C89" ("C89"); Footprint = "CAP0603"; UniqueID = "\VXLQHOQK\NVCPDEBQ\MNKVTWTA" ("\VXLQHOQK\NVCPDEBQ\MNKVTWTA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/filter/ceramic-capacitors/60?s=N4IgTCBcDaIMIAYAsCxwIzINJIEoEE4QBdAXyA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactuer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "C0402C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C93" ("C93"); Footprint = "CAP0603"; UniqueID = "\VXLQHOQK\NVCPDEBQ\PDGVFMZC" ("\VXLQHOQK\NVCPDEBQ\PDGVFMZC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/filter/ceramic-capacitors/60?s=N4IgTCBcDaIMIAYAsCxwIzINJIEoEE4QBdAXyA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactuer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "C0402C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C96" ("C96"); Footprint = "CAP0603"; UniqueID = "\VXLQHOQK\NVCPDEBQ\ROBLFWNT" ("\VXLQHOQK\NVCPDEBQ\ROBLFWNT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/filter/ceramic-capacitors/60?s=N4IgTCBcDaIMIAYAsCxwIzINJIEoEE4QBdAXyA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactuer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "C0402C104K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
