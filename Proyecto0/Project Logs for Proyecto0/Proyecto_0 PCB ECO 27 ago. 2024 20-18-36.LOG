@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C102 Old Footprint=CAP0603 New Footprint=CAP0402
+Change component parameters: Designator = "C102" ("C102"); Footprint = "CAP0603"; UniqueID = "\VXLQHOQK\NVCPDEBQ\XPMRALRZ" ("\VXLQHOQK\NVCPDEBQ\XPMRALRZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0402C105K4RAC7867/22058709?s=N4IgTCBcDaIMIAYAsCxwIwIKwGkkCUBBOEAXQF8g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "C0402C105K4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
