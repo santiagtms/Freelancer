@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=A2 Pin=U4-A2
+Removed Pin From Net: NetName=B2 Pin=U4-B2
+Change Net Name : Old Net Name=B1 New Net Name=AD7_N
+Change Net Name : Old Net Name=B5 New Net Name=AD12_N
+Change Net Name : Old Net Name=B6 New Net Name=AD12_P
+Change Net Name : Old Net Name=B7 New Net Name=AD4_P
+Change Net Name : Old Net Name=C1 New Net Name=AD7_P
+Change Net Name : Old Net Name=C2 New Net Name=AD6_N
+Change Net Name : Old Net Name=C3 New Net Name=AD6_P
+Change Net Name : Old Net Name=C6 New Net Name=AD13_N
+Change Net Name : Old Net Name=C7 New Net Name=AD13_P
+Change Net Name : Old Net Name=D1 New Net Name=AD15_N
+Change Net Name : Old Net Name=E2 New Net Name=AD15_P
+Added Pin To Net: NetName=AD14_N Pin=U4-A2
+Added Net: Name=AD14_N
+Added Pin To Net: NetName=AD14_P Pin=U4-B2
+Added Net: Name=AD14_P
+Added Differential Pair: Name=AD6
+Added Differential Pair: Name=AD7
+Added Differential Pair: Name=AD12
+Added Differential Pair: Name=AD13
+Added Differential Pair: Name=AD14
+Added Differential Pair: Name=AD15

@@ -1,0 +1,55 @@
+Added Pin To Net: NetName=AD14_N Pin=CNT5-39
+Added Pin To Net: NetName=AD14_P Pin=CNT5-40
+Change Net Name : Old Net Name=A3 New Net Name=L4_N
+Change Net Name : Old Net Name=A4 New Net Name=AD5_N
+Change Net Name : Old Net Name=A5 New Net Name=AD5_P
+Change Net Name : Old Net Name=A6 New Net Name=AD4_N
+Change Net Name : Old Net Name=B4 New Net Name=L4_P
+Change Net Name : Old Net Name=C4 New Net Name=L12_N
+Change Net Name : Old Net Name=D3 New Net Name=L11_N
+Change Net Name : Old Net Name=D4 New Net Name=L12_P
+Change Net Name : Old Net Name=D5 New Net Name=L6_N
+Change Net Name : Old Net Name=D6 New Net Name=L6_P
+Change Net Name : Old Net Name=E1 New Net Name=L15_N
+Change Net Name : Old Net Name=E3 New Net Name=L11_P
+Change Net Name : Old Net Name=E5 New Net Name=L13_N
+Change Net Name : Old Net Name=F2 New Net Name=L15_P
+Change Net Name : Old Net Name=F3 New Net Name=L14_N
+Change Net Name : Old Net Name=F4 New Net Name=L14_P
+Change Net Name : Old Net Name=F5 New Net Name=L13_P
+Change Net Name : Old Net Name=G1 New Net Name=L17_N
+Change Net Name : Old Net Name=G2 New Net Name=L17_P
+Change Net Name : Old Net Name=G4 New Net Name=L16_N
+Change Net Name : Old Net Name=G5 New Net Name=L16_P
+Change Net Name : Old Net Name=H1 New Net Name=L20_N
+Change Net Name : Old Net Name=H2 New Net Name=L20_P
+Change Net Name : Old Net Name=H3 New Net Name=L21_N
+Change Net Name : Old Net Name=H4 New Net Name=L18_N
+Change Net Name : Old Net Name=H5 New Net Name=L18_P
+Change Net Name : Old Net Name=J1 New Net Name=L22_N
+Change Net Name : Old Net Name=J3 New Net Name=L21_P
+Change Net Name : Old Net Name=J4 New Net Name=L19_N
+Change Net Name : Old Net Name=J5 New Net Name=L19_P
+Change Net Name : Old Net Name=K1 New Net Name=L22_P
+Change Net Name : Old Net Name=K2 New Net Name=L24_N
+Change Net Name : Old Net Name=K3 New Net Name=L24_P
+Change Net Name : Old Net Name=L2 New Net Name=L23_N
+Change Net Name : Old Net Name=L3 New Net Name=L23_P
+Added Differential Pair: Name=AD4
+Added Differential Pair: Name=AD5
+Added Differential Pair: Name=L4
+Added Differential Pair: Name=L6
+Added Differential Pair: Name=L11
+Added Differential Pair: Name=L12
+Added Differential Pair: Name=L13
+Added Differential Pair: Name=L14
+Added Differential Pair: Name=L15
+Added Differential Pair: Name=L16
+Added Differential Pair: Name=L17
+Added Differential Pair: Name=L18
+Added Differential Pair: Name=L19
+Added Differential Pair: Name=L20
+Added Differential Pair: Name=L21
+Added Differential Pair: Name=L22
+Added Differential Pair: Name=L23
+Added Differential Pair: Name=L24
