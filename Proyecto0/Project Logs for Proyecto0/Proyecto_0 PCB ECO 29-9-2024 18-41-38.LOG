@@ -1,0 +1,6 @@
+Added Class: Name=ADD[14..0]
+Added Class: Name=BA[2..0]
+Added Class: Name=DQ[15..0]
+Added Rule: Name=Schematic Clearance Constraint
+Added Rule: Name=Schematic Impedance Constraint
+Added Rule: Name=Schematic Matched Net Lengths

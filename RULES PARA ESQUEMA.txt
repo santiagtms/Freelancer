@@ -1,0 +1,9 @@
+https://www.ti.com/lit/an/sprabi1d/sprabi1d.pdf?ts=1727555996898&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+https://www.nxp.com/docs/en/application-note/AN2582.pdf
+
+
+
+https://resources.pcb.cadence.com/blog/2019-ddr3-routing-guidelines-for-trace-management-and-data-grouping
+
+https://www.linkedin.com/pulse/ddr3-pcb-design-routing-comprehensive-guide-soheil-nazari

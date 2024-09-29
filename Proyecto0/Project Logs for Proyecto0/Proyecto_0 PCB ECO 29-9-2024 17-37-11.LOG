@@ -1,0 +1,14 @@
+Added Class: Name=100MHz
+Added Class: Name=DDR_CK
+Added Class: Name=DDR_CTL
+Added Class: Name=DQ[15..0]
+Added Class: Name=EEPROM_SIGNALS
+Added Class: Name=FLASH_SPI
+Added Class: Name=FPGA_BANK34
+Added Class: Name=FPGA_CONFIG_SIGNALS
+Added Class: Name=FPGA_UART_SIGNALS
+Added Class: Name=ADC_DIFF_FILTERED
+Added Class: Name=ADC_DIFF_UNFILTERED
+Added Class: Name=DDR_DIFF_CTL
+Added Class: Name=FPGA_PORT35_DIFF
+Added Class: Name=USB_DIFF

@@ -1,0 +1,26 @@
+Change Net Name : Old Net Name=D_n New Net Name=USB_DATA_N
+Change Net Name : Old Net Name=D_p New Net Name=USB_DATA_P
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=Yellow New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=RGB(255, 110, 110)
+Added Differential Pair: Name=USB_DATA
+Added Rule: Name=Schematic Matched Net Lengths
+Added Rule: Name=Schematic Matched Net Lengths_1
+Added Rule: Name=Schematic Matched Net Lengths_2
+Added Rule: Name=Schematic Matched Net Lengths_3
+Added Rule: Name=Schematic Matched Net Lengths_4
+Added Rule: Name=Schematic Matched Net Lengths_5
+Added Rule: Name=Schematic Matched Net Lengths_6
+Added Rule: Name=Schematic Matched Net Lengths_7
+Added Rule: Name=Schematic Matched Net Lengths_8
+Added Rule: Name=Schematic Matched Net Lengths_9
+Added Rule: Name=Schematic Matched Net Lengths_10
+Added Rule: Name=Schematic Matched Net Lengths_11
+Added Rule: Name=Schematic Matched Net Lengths_12
+Added Rule: Name=Schematic Matched Net Lengths_13
+Removed Member From Class: ClassName=DIFFPAIR Member=CK
+Removed Member From Class: ClassName=DIFFPAIR Member=LDQS
+Removed Member From Class: ClassName=DIFFPAIR Member=UDQS
