@@ -2,52 +2,48 @@ SEÑALES DDR3
 https://www.ti.com/lit/an/sprabi1d/sprabi1d.pdf?ts=1727555996898&ref_url=https%253A%252F%252Fwww.google.com%252F
 https://www.nxp.com/docs/en/application-note/AN2582.pdf
 
-
-
-https://resources.pcb.cadence.com/blog/2019-ddr3-routing-guidelines-for-trace-management-and-data-grouping
-
 https://www.linkedin.com/pulse/ddr3-pcb-design-routing-comprehensive-guide-soheil-nazari
-
-________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________
 
 Fiduciales
 https://www.neodenpnp.com/news/what-is-a-fiducial-mark-on-the-pcb-29112212.html
 https://resources.altium.com/es/p/are-fiducial-marker-placements-pcbs-still-necessary-modern-manufacturing-capabilities
 https://www.protoexpress.com/kb/panel-requirements-for-pcb-assembly/
-
 __________________________________________________________________________________________________________________
 
 SPI
 https://www.infineon.com/dgdl/Infineon-AN201383_S25FL_P_SPI_Flash_Family_PCB_Layout_Guide-ApplicationNotes-v03_00-EN.pdf?fileId=8ac78c8c7cdc391c017d074178f9649a
 https://resources.altium.com/es/p/there-spi-trace-impedance-requirement
-
-___________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
 
 USB 2.0
 https://ww1.microchip.com/downloads/en/AppNotes/AN13.10-Application-Note-DS00002972A.pdf
-https://www.silabs.com/documents/public/application-notes/an0046-efm32-usb-hardware-design-guidelines.pdf 				[LEER]
 
-
-
-
-
+https://www.silabs.com/documents/public/application-notes/an0046-efm32-usb-hardware-design-guidelines.pdf 
 _____________________________________________________________
+
 Hojas de datos para routeo
 ESD321: https://www.ti.com/lit/ds/symlink/esd321.pdf?ts=1727835626155&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FESD321
 
 
+________________________________________IMPEDANCIA DE LINAS gpio	[CONTINUAR]
+https://docs.amd.com/v/u/en-US/ug471_7Series_SelectIO
+https://docs.amd.com/v/u/en-US/ug483_7Series_PCB
 
 
 
+______________________________________________________________
 Fusibles reseteables
-https://www.eaton.com/us/en-us/catalog/electronic-components/pts-resettable-fuse.html
+Eaton
+https://www.eaton.com/us/en-us/catalog/electronic-components/ptsa-resettable-fuse.html
 https://www.eaton.com/us/en-us/catalog/electronic-components/ptslr-resettable-fuse.html
+https://www.eaton.com/us/en-us/catalog/electronic-components/pts-resettable-fuse.html
+Yageo
 https://www.yageo.com/en/Product/Index/cpc/pptc
-https://www.yageo.com/upload/media/product/products/datasheet/cpc/pptc/SMDH_1.pdf
-https://www.bourns.com/docs/product-datasheets/mf-nsmf.pdf?sfvrsn=39c76af6_28
-https://www.bourns.com/docs/product-datasheets/mf-usmf.pdf?sfvrsn=881e2547_33
-https://www.bourns.com/docs/product-datasheets/mf-lsmf.pdf?sfvrsn=10bf0d8_28
-
-
+Bourns
+https://www.bourns.com/products/circuit-protection/resettable-fuses-multifuse-pptc
+https://www.bourns.com/products/circuit-protection/resettable-fuses-multifuse-pptc-aec-q200-compliant
+______________________________________________________________
 Arduino esquema
 https://www.arduino.cc/en/uploads/Main/arduino-mega-adk-schematic.pdf
+______________________________________________________________
