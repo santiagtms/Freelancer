@@ -1,0 +1,52 @@
+﻿Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Thickness (mm);Weight (oz);Dk;Df;Orientation;Copper Orientation;Pullback distance (mm);Constructions;Resin (%);Frequency (GHz);GlassTransTemp (°C)
+;Top Overlay;Overlay;;;;;;;;;;;;;
+;Top Solder;Solder Mask;;Solder Resist;0.01016;;3.5;;;;;;;;
+1;TOP;Signal;;;0.0175;0.5;;;Top;Above;;;;;
+;Dielectric 2;Prepreg;Altium Designer;PP-015;0.0855;;4.45;0.02;;;;3313;60;1;180
+2;GND[1];Plane;;;0.035;1;;;;Below;0.508;;;;
+;Dielectric 3;Core;;PP-006;0.13;;4.6;;;;;;;;
+3;VDD[1];Plane;;;0.035;1;;;;Above;0.508;;;;
+;Dielectric 4;Prepreg;Altium Designer;PP-023;0.161;;4.74;0.02;;;;7628;50;1;180
+4;Signal[1];Signal;;;0.035;1;;;Not allowed;Below;;;;;
+;Dielectric 5;Core;;PP-006;0.13;;4.6;;;;;;;;
+5;GND[2];Plane;;;0.035;1;;;;Above;0.508;;;;
+;Dielectric 1;Prepreg;Altium Designer;PP-023;0.161;;4.74;0.02;;;;7628;50;1;180
+6;Layer 1;Plane;;;0.035;1;;;;Below;0.508;;;;
+;Dielectric 6;Core;;PP-006;0.13;;4.6;;;;;;;;
+7;Layer 2;Signal;;;0.035;1;;;Not allowed;Above;;;;;
+;Dielectric 7;Prepreg;Altium Designer;PP-023;0.161;;4.74;0.02;;;;7628;50;1;180
+8;Layer 3;Plane;;;0.035;1;;;;Below;0.508;;;;
+;Dielectric 8;Core;;PP-006;0.13;;4.6;;;;;;;;
+9;Layer 4;Plane;;;0.035;1;;;;Above;0.508;;;;
+;Dielectric 9;Prepreg;Altium Designer;PP-015;0.0855;;4.45;0.02;;;;3313;60;1;180
+10;Bottom Layer;Signal;;;0.0175;0.5;;;Bottom;Below;;;;;
+;Bottom Solder;Solder Mask;;Solder Resist;0.01016;;3.5;;;;;;;;
+;Bottom Overlay;Overlay;;;;;;;;;;;;;
+
+
+Impedances
+#;Target impedance (Ω);Type;Trace layer;Calculated impedance (Ω);Trace width (mm);Gap (mm);Reference layers;Stack
+1;50;Single;TOP;41.1614;0.2032;;GND[1];Board Layer Stack
+
+2;50;Single;Signal[1];47.0567;0.1016;;VDD[1];GND[2];Board Layer Stack
+
+3;50;Single;Layer 2;47.0567;;;Layer 1;Layer 3;Board Layer Stack
+
+4;50;Single;Bottom Layer;41.1614;;;Layer 4;Board Layer Stack
+
+5;100;Diff pair;Layer 2;100.011;0.04503;0.127;Layer 1;Layer 3;Board Layer Stack
+
+6;100;Diff pair;Bottom Layer;100.0086;0.12399;0.127;Layer 4;Board Layer Stack
+
+7;100;Diff pair;Signal[1];100.011;0.04503;0.127;VDD[1];GND[2];Board Layer Stack
+
+8;100;Diff pair;TOP;100.0086;0.12399;0.127;GND[1];Board Layer Stack
+
+
+Via types
+#;Name;Type;Layers;Stack
+1;Thru 1:10;Thru;TOP-Bottom Layer;Board Layer Stack
+
+
+No back drills

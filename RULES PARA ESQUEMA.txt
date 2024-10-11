@@ -1,3 +1,8 @@
+Ferritas
+https://www.analog.com/en/resources/analog-dialogue/articles/ferrite-beads-demystified.html
+https://abracon.com/uploads/resources/Ferrite-Beads-White-Paper.pdf
+_______________________________________________________________________________________________________________
+
 SEÑALES DDR3
 https://www.ti.com/lit/an/sprabi1d/sprabi1d.pdf?ts=1727555996898&ref_url=https%253A%252F%252Fwww.google.com%252F
 https://www.nxp.com/docs/en/application-note/AN2582.pdf
@@ -9,30 +14,51 @@ Fiduciales
 https://www.neodenpnp.com/news/what-is-a-fiducial-mark-on-the-pcb-29112212.html
 https://resources.altium.com/es/p/are-fiducial-marker-placements-pcbs-still-necessary-modern-manufacturing-capabilities
 https://www.protoexpress.com/kb/panel-requirements-for-pcb-assembly/
-__________________________________________________________________________________________________________________
+IPC-7351	https://datasheet.datasheetarchive.com/originals/crawler/fancort.com/428761382a93d283e0ca120b5c72d850.pdf
+_______________________________________________________________________________________________________________
+
+Consideraciones generales para ruteo de alta velocidad
+
+https://www.ti.com/lit/an/slla414/slla414.pdf?ts=1728628664572
+https://www.ti.com/lit/an/spraar7j/spraar7j.pdf?ts=1728598479945
+_______________________________________________________________________________________________________________
 
 SPI
 https://www.infineon.com/dgdl/Infineon-AN201383_S25FL_P_SPI_Flash_Family_PCB_Layout_Guide-ApplicationNotes-v03_00-EN.pdf?fileId=8ac78c8c7cdc391c017d074178f9649a
 https://resources.altium.com/es/p/there-spi-trace-impedance-requirement
-__________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________
 
 USB 2.0
 https://ww1.microchip.com/downloads/en/AppNotes/AN13.10-Application-Note-DS00002972A.pdf
 
 https://www.silabs.com/documents/public/application-notes/an0046-efm32-usb-hardware-design-guidelines.pdf 
-_____________________________________________________________
+https://www.microchip.com/content/dam/mchp/documents/OTH/ApplicationNotes/ApplicationNotes/doc7633.pdf
+_______________________________________________________________________________________________________________
+
+Footprints
+https://www.protoexpress.com/blog/features-of-ipc-7351-standards-to-design-pcb-component-footprint/
+
+IPC-7351
+https://datasheet.datasheetarchive.com/originals/crawler/fancort.com/428761382a93d283e0ca120b5c72d850.pdf
+
+_______________________________________________________________________________________________________________
 
 Hojas de datos para routeo
 ESD321: https://www.ti.com/lit/ds/symlink/esd321.pdf?ts=1727835626155&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fes-mx%252FESD321
+_______________________________________________________________________________________________________________
 
-
-________________________________________IMPEDANCIA DE LINAS gpio	[CONTINUAR]
+IMPEDANCIA DE LINAS gpio
 https://docs.amd.com/v/u/en-US/ug471_7Series_SelectIO
 https://docs.amd.com/v/u/en-US/ug483_7Series_PCB
+_______________________________________________________________________________________________________________
+
+Definicion de perfiles de impedancia y rules
+https://www.youtube.com/watch?v=VA_lxssCM7Y
+https://www.youtube.com/watch?v=C-BBZG2tuKA
+https://www.youtube.com/watch?v=p3w22veWMbk
 
 
-
-______________________________________________________________
+_______________________________________________________________________________________________________________
 Fusibles reseteables
 Eaton
 https://www.eaton.com/us/en-us/catalog/electronic-components/ptsa-resettable-fuse.html
@@ -47,3 +73,18 @@ ______________________________________________________________
 Arduino esquema
 https://www.arduino.cc/en/uploads/Main/arduino-mega-adk-schematic.pdf
 ______________________________________________________________
+
+Generacion automatica de documentos y detalles PCB
+
+Board Shape: https://www.altium.com/documentation/altium-designer/defining-layer-stack#defining-the-board-shape
+Documenting the Layer Stack: https://www.altium.com/documentation/altium-designer/defining-layer-stack#documenting-the-layer-stack
+Including a Drill Table: https://www.altium.com/documentation/altium-designer/defining-layer-stack#including-a-drill-table
+High Quality, Flexible Design Documentation: https://www.altium.com/documentation/altium-designer/defining-layer-stack#high-quality-flexible-design-documentation
+	Streamlining Board Design Documentation with Draftsman: https://www.altium.com/documentation/altium-designer/draftsman-manufacturing-documentation
+
+______________________________________________________________________________________________________________
+PCB WAY 
+
+Sustratos: https://www.pcbway.com/pcb_prototype/PCB_material_classification.html
+Stackups estandart: https://www.pcbway.com/multi-layer-laminated-structure.html
+Capabilities: https://www.pcbway.com/capabilities.html

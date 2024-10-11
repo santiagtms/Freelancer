@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=BVUS Pin=R8-2
+Removed Pin From Net: NetName=BVUS Pin=S1-A
+Removed Member From Class: ClassName=DDR_CTL Member=BA0
+Removed Member From Class: ClassName=DDR_CTL Member=BA1
+Removed Member From Class: ClassName=DDR_CTL Member=BA2
+Removed Member From Class: ClassName=DDR_CTL Member=C\A\S\
+Removed Member From Class: ClassName=DDR_CTL Member=D\D\R\_\R\E\S\E\T\
+Removed Member From Class: ClassName=DDR_CTL Member=R\A\S\
+Removed Member From Class: ClassName=DDR_CTL Member=W\E\
+Added Component: Designator=S3(PTSLR0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-ptslr0603-surface-mount-resettable-fuse-data-sheet-elx1047-en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/detail/eaton-electronics-division/PTSLR06038V050/15193495?s=N4IgTCBcDaIAoBUDKAZASgBgGwYMwA4A1DAVgxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ihold"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Itrip"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxVoltage"; Value = "8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PTSLR06038V050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BVUS Pin=S3-1
+Change Net Name : Old Net Name=NetD4_A New Net Name=LED_1
+Change Net Name : Old Net Name=NetD5_A New Net Name=LED_2
+Change Net Name : Old Net Name=NetD6_A New Net Name=LED_3
+Change Net Name : Old Net Name=NetD7_A New Net Name=LED_4
+Change Net Name : Old Net Name=NetD8_A New Net Name=LED_5
+Change Net Name : Old Net Name=NetD9_A New Net Name=LED_6
+Change Net Name : Old Net Name=NetD10_A New Net Name=LED_7
+Change Net Name : Old Net Name=NetD11_A New Net Name=LED_8
+Added Pin To Net: NetName=BVUS_PROTECTED Pin=R8-2
+Added Pin To Net: NetName=BVUS_PROTECTED Pin=S1-A
+Added Pin To Net: NetName=BVUS_PROTECTED Pin=S3-2
+Added Net: Name=BVUS_PROTECTED
+Change Class Name : Old Net Name=DDR_CTL New Net Name=DDR_CTRL
+Added Class: Name=DDR_ADD/CMD
+Added Class: Name=DDR_DATA(0-7)
+Added Class: Name=DDR_DATA(8-15)
+Added Class: Name=FPGA_BANK14
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component S3 PTSLR06038V050
+Added Member To Class: ClassName=DDR_CTRL Member=Wire CKE
+Added Rule: Name=Schematic Clearance Constraint
+Added Rule: Name=Schematic Clearance Constraint_1
+Added Rule: Name=Schematic Clearance Constraint_2
+Added Rule: Name=Schematic Clearance Constraint_3
+Added Rule: Name=Schematic Clearance Constraint_4
+Added Rule: Name=Schematic Clearance Constraint_5
+Added Rule: Name=Schematic Clearance Constraint_6
+Added Rule: Name=Schematic Clearance Constraint_7
+Added Rule: Name=Schematic Clearance Constraint_8
+Added Rule: Name=Schematic Clearance Constraint_9
+Added Rule: Name=Schematic Clearance Constraint_10
+Added Rule: Name=Schematic Clearance Constraint_11
+Added Rule: Name=Schematic Clearance Constraint_12
+Added Rule: Name=Schematic Clearance Constraint_13
+Added Rule: Name=Schematic Clearance Constraint_14
+Added Rule: Name=Schematic Clearance Constraint_15
+Added Rule: Name=Schematic Impedance Constraint
+Added Rule: Name=Schematic Impedance Constraint_1
+Added Rule: Name=Schematic Impedance Constraint_2
+Added Rule: Name=Schematic Impedance Constraint_3
+Added Rule: Name=Schematic Impedance Constraint_4
+Added Rule: Name=Schematic Impedance Constraint_5
+Added Rule: Name=Schematic Impedance Constraint_6
+Added Rule: Name=Schematic Impedance Constraint_7
+Added Rule: Name=Schematic Impedance Constraint_8
+Added Rule: Name=Schematic Impedance Constraint_9
+Added Rule: Name=Schematic Impedance Constraint_10
+Added Rule: Name=Schematic Impedance Constraint_11
+Added Rule: Name=Schematic Impedance Constraint_12
+Added Rule: Name=Schematic Impedance Constraint_13
+Added Rule: Name=Schematic Impedance Constraint_14
+Added Rule: Name=Schematic Impedance Constraint_15
+Added Rule: Name=Schematic Impedance Constraint_16
+Added Rule: Name=Schematic Impedance Constraint_17
+Added Rule: Name=Schematic Impedance Constraint_18
+Added Rule: Name=Schematic Impedance Constraint_19
+Added Rule: Name=Schematic Impedance Constraint_20
+Added Rule: Name=Schematic Impedance Constraint_21
+Added Rule: Name=Schematic Impedance Constraint_22
+Added Rule: Name=Schematic Impedance Constraint_23
+Added Rule: Name=Schematic Impedance Constraint_24
+Added Rule: Name=Schematic Impedance Constraint_25
+Added Rule: Name=Schematic Impedance Constraint_26
+Added Rule: Name=Schematic Impedance Constraint_27
+Added Rule: Name=Schematic Impedance Constraint_28
+Added Rule: Name=Schematic Impedance Constraint_29
+Added Rule: Name=Schematic Impedance Constraint_30
+Added Rule: Name=Schematic Impedance Constraint_31
+Added Rule: Name=Schematic Impedance Constraint_32
+Added Rule: Name=Schematic Impedance Constraint_33
+Added Rule: Name=Schematic Impedance Constraint_34
+Added Rule: Name=Schematic Impedance Constraint_35
+Added Rule: Name=Schematic Impedance Constraint_36
+Added Rule: Name=Schematic Impedance Constraint_37
+Added Rule: Name=Schematic Impedance Constraint_38
+Added Rule: Name=Schematic Impedance Constraint_39
+Added Rule: Name=Schematic Impedance Constraint_40
+Added Rule: Name=Schematic Impedance Constraint_41
+Added Rule: Name=Schematic Impedance Constraint_42
+Added Rule: Name=Schematic Impedance Constraint_43
+Added Rule: Name=Schematic Impedance Constraint_44
+Added Rule: Name=Schematic Impedance Constraint_45
+Added Rule: Name=Schematic Impedance Constraint_46
+Added Rule: Name=Schematic Impedance Constraint_47
+Added Rule: Name=Schematic Impedance Constraint_48
+Added Rule: Name=Schematic Impedance Constraint_49
+Added Rule: Name=Schematic Impedance Constraint_50
+Added Rule: Name=Schematic Impedance Constraint_51
+Added Rule: Name=Schematic Impedance Constraint_52
+Added Rule: Name=Schematic Impedance Constraint_53
+Added Rule: Name=Schematic Impedance Constraint_54
+Added Rule: Name=Schematic Impedance Constraint_55
+Added Rule: Name=Schematic Impedance Constraint_56
+Added Rule: Name=Schematic Impedance Constraint_57
+Added Rule: Name=Schematic Impedance Constraint_58
+Added Rule: Name=Schematic Impedance Constraint_59
+Added Rule: Name=Schematic Impedance Constraint_60
+Added Rule: Name=Schematic Impedance Constraint_61
+Added Rule: Name=Schematic Impedance Constraint_62
+Added Rule: Name=Schematic Impedance Constraint_63
+Added Rule: Name=Schematic Impedance Constraint_64
+Added Rule: Name=Schematic Impedance Constraint_65
+Added Rule: Name=Schematic Impedance Constraint_66
+Added Rule: Name=Schematic Impedance Constraint_67
+Added Rule: Name=Schematic Impedance Constraint_68
+Added Rule: Name=Schematic Matched Net Lengths
+Added Rule: Name=Schematic Matched Net Lengths_1
+Added Rule: Name=Schematic Matched Net Lengths_2
+Added Rule: Name=Schematic Matched Net Lengths_3
+Added Rule: Name=Schematic Matched Net Lengths_4
+Added Rule: Name=Schematic Matched Net Lengths_5
+Added Rule: Name=Schematic Matched Net Lengths_6
+Added Rule: Name=Schematic Matched Net Lengths_7
+Added Rule: Name=Schematic Matched Net Lengths_8
+Added Rule: Name=Schematic Matched Net Lengths_9
+Added Rule: Name=Schematic Matched Net Lengths_10
+Added Rule: Name=Schematic Matched Net Lengths_11
+Added Rule: Name=Schematic Matched Net Lengths_12
+Added Rule: Name=Schematic Matched Net Lengths_13
+Added Rule: Name=Schematic Matched Net Lengths_14
+Added Rule: Name=Schematic Matched Net Lengths_15
+Added Rule: Name=Schematic Matched Net Lengths_16
+Added Rule: Name=Schematic Matched Net Lengths_17
+Added Rule: Name=Schematic Matched Net Lengths_18
+Added Rule: Name=Schematic Matched Net Lengths_19
+Added Rule: Name=Schematic Matched Net Lengths_20
+Added Rule: Name=Schematic Matched Net Lengths_21
+Added Rule: Name=Schematic Matched Net Lengths_22
+Added Rule: Name=Schematic Matched Net Lengths_23
+Added Rule: Name=Schematic Matched Net Lengths_24
+Added Rule: Name=Schematic Matched Net Lengths_25
+Added Rule: Name=Schematic Matched Net Lengths_26
+Added Rule: Name=Schematic Matched Net Lengths_27
+Added Rule: Name=Schematic Matched Net Lengths_28
+Added Rule: Name=Schematic Matched Net Lengths_29
+Added Rule: Name=Schematic Matched Net Lengths_30
+Added Rule: Name=Schematic Matched Net Lengths_31
+Added Rule: Name=Schematic Matched Net Lengths_32
+Added Rule: Name=Schematic Matched Net Lengths_33
+Added Rule: Name=Schematic Matched Net Lengths_34
+Added Rule: Name=Schematic Matched Net Lengths_35
+Added Rule: Name=Schematic Matched Net Lengths_36
+Added Rule: Name=Schematic Matched Net Lengths_37
+Added Rule: Name=Schematic Matched Net Lengths_38
+Added Rule: Name=Schematic Matched Net Lengths_39
+Added Rule: Name=Schematic Matched Net Lengths_40
+Added Rule: Name=Schematic Matched Net Lengths_41
+Added Rule: Name=Schematic Matched Net Lengths_42
+Added Rule: Name=Schematic Matched Net Lengths_43
+Added Rule: Name=Schematic Matched Net Lengths_44
+Added Rule: Name=Schematic Matched Net Lengths_45
+Added Rule: Name=Schematic Matched Net Lengths_46
+Added Rule: Name=Schematic Matched Net Lengths_47
+Added Rule: Name=Schematic Matched Net Lengths_48
+Added Rule: Name=Schematic Matched Net Lengths_49
+Added Rule: Name=Schematic Matched Net Lengths_50
+Added Rule: Name=Schematic Matched Net Lengths_51
+Added Rule: Name=Schematic Matched Net Lengths_52
+Added Rule: Name=Schematic Matched Net Lengths_53
+Added Rule: Name=Schematic Matched Net Lengths_54
+Added Rule: Name=Schematic Matched Net Lengths_55
+Added Rule: Name=Schematic Matched Net Lengths_56
+Added Rule: Name=Schematic Matched Net Lengths_57
+Added Rule: Name=Schematic Matched Net Lengths_58
+Added Rule: Name=Schematic Matched Net Lengths_59
+Added Rule: Name=Schematic Matched Net Lengths_60
+Added Rule: Name=Schematic Matched Net Lengths_61
+Added Rule: Name=Schematic Matched Net Lengths_62
+Added Rule: Name=Schematic Matched Net Lengths_63
+Added Rule: Name=Schematic Matched Net Lengths_64
+Added Rule: Name=Schematic Matched Net Lengths_65
+Added Rule: Name=Schematic Matched Net Lengths_66
+Added Rule: Name=Schematic Matched Net Lengths_67
+Added Rule: Name=Schematic Matched Net Lengths_68
+Added Rule: Name=Schematic Maximum Via Count Constraint
+Added Rule: Name=Schematic Maximum Via Count Constraint_1
+Added Rule: Name=Schematic Maximum Via Count Constraint_2
+Added Rule: Name=Schematic Maximum Via Count Constraint_3
+Added Rule: Name=Schematic Maximum Via Count Constraint_4
+Added Rule: Name=Schematic Maximum Via Count Constraint_5
+Added Rule: Name=Schematic Maximum Via Count Constraint_6
+Added Rule: Name=Schematic Maximum Via Count Constraint_7
+Added Rule: Name=Schematic Maximum Via Count Constraint_8
+Added Rule: Name=Schematic Maximum Via Count Constraint_9
+Added Rule: Name=Schematic Maximum Via Count Constraint_10
+Added Rule: Name=Schematic Permitted Layers Rule
+Added Rule: Name=Schematic Routing Corners
+Added Rule: Name=Schematic Routing Corners_1
+Added Rule: Name=Schematic Routing Layers
+Added Rule: Name=Schematic Routing Layers_1
+Added Rule: Name=Schematic Routing Layers_2
+Added Rule: Name=Schematic Routing Layers_3
+Added Rule: Name=Schematic Routing Layers_4
+Added Rule: Name=Schematic Routing Layers_5
+Added Rule: Name=Schematic Routing Layers_6
+Added Rule: Name=Schematic Routing Layers_7
+Added Rule: Name=Schematic Routing Layers_8
+Added Rule: Name=Schematic Routing Layers_9
+Added Rule: Name=Schematic Routing Layers_10
+Added Rule: Name=Schematic Routing Layers_11
+Added Class: Name=DDR_CK_DIFF
+Change Class Name : Old Net Name=DDR_DIFF_CTL New Net Name=DDR_DATA_DIF
