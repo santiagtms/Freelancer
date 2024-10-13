@@ -1,0 +1,5 @@
+Added Rule: Name=Schematic Routing Layers_12
+Added Rule: Name=Schematic Routing Layers_13
+Change Rule Scope 1 : Old Scope=InNet('CK_N') New Scope=InNet('CK_P')
+Change Rule Scope 1 : Old Scope=InNet('UDQS_P') New Scope=InNet('UDQS_N')
+Change Rule Scope 1 : Old Scope=InNet('UDQS_N') New Scope=InNet('LDQS_P')

@@ -1,0 +1,368 @@
+Added Rule: Name=Schematic Clearance Constraint_7
+Added Rule: Name=Schematic Clearance Constraint_8
+Added Rule: Name=Schematic Clearance Constraint_9
+Added Rule: Name=Schematic Clearance Constraint_10
+Added Rule: Name=Schematic Clearance Constraint_11
+Added Rule: Name=Schematic Clearance Constraint_12
+Added Rule: Name=Schematic Clearance Constraint_13
+Added Rule: Name=Schematic Clearance Constraint_14
+Added Rule: Name=Schematic Clearance Constraint_15
+Added Rule: Name=Schematic Clearance Constraint_16
+Added Rule: Name=Schematic Clearance Constraint_17
+Added Rule: Name=Schematic Clearance Constraint_18
+Added Rule: Name=Schematic Clearance Constraint_19
+Added Rule: Name=Schematic Clearance Constraint_20
+Added Rule: Name=Schematic Clearance Constraint_21
+Added Rule: Name=Schematic Clearance Constraint_22
+Added Rule: Name=Schematic Clearance Constraint_23
+Added Rule: Name=Schematic Clearance Constraint_24
+Added Rule: Name=Schematic Clearance Constraint_25
+Added Rule: Name=Schematic Clearance Constraint_26
+Added Rule: Name=Schematic Impedance Constraint
+Added Rule: Name=Schematic Impedance Constraint_3
+Added Rule: Name=Schematic Impedance Constraint_9
+Added Rule: Name=Schematic Impedance Constraint_47
+Added Rule: Name=Schematic Impedance Constraint_69
+Added Rule: Name=Schematic Impedance Constraint_70
+Added Rule: Name=Schematic Impedance Constraint_71
+Added Rule: Name=Schematic Impedance Constraint_72
+Added Rule: Name=Schematic Impedance Constraint_73
+Added Rule: Name=Schematic Impedance Constraint_74
+Added Rule: Name=Schematic Impedance Constraint_75
+Added Rule: Name=Schematic Impedance Constraint_76
+Added Rule: Name=Schematic Impedance Constraint_77
+Added Rule: Name=Schematic Impedance Constraint_78
+Added Rule: Name=Schematic Impedance Constraint_79
+Added Rule: Name=Schematic Impedance Constraint_80
+Added Rule: Name=Schematic Impedance Constraint_81
+Added Rule: Name=Schematic Impedance Constraint_82
+Added Rule: Name=Schematic Impedance Constraint_83
+Added Rule: Name=Schematic Impedance Constraint_84
+Added Rule: Name=Schematic Impedance Constraint_85
+Added Rule: Name=Schematic Impedance Constraint_86
+Added Rule: Name=Schematic Impedance Constraint_87
+Added Rule: Name=Schematic Impedance Constraint_88
+Added Rule: Name=Schematic Impedance Constraint_89
+Added Rule: Name=Schematic Impedance Constraint_90
+Added Rule: Name=Schematic Impedance Constraint_91
+Added Rule: Name=Schematic Impedance Constraint_92
+Added Rule: Name=Schematic Impedance Constraint_93
+Added Rule: Name=Schematic Impedance Constraint_94
+Added Rule: Name=Schematic Impedance Constraint_95
+Added Rule: Name=Schematic Impedance Constraint_96
+Added Rule: Name=Schematic Impedance Constraint_97
+Added Rule: Name=Schematic Impedance Constraint_98
+Added Rule: Name=Schematic Impedance Constraint_99
+Added Rule: Name=Schematic Impedance Constraint_100
+Added Rule: Name=Schematic Impedance Constraint_101
+Added Rule: Name=Schematic Impedance Constraint_102
+Added Rule: Name=Schematic Impedance Constraint_103
+Added Rule: Name=Schematic Impedance Constraint_104
+Added Rule: Name=Schematic Impedance Constraint_105
+Added Rule: Name=Schematic Impedance Constraint_106
+Added Rule: Name=Schematic Impedance Constraint_107
+Added Rule: Name=Schematic Impedance Constraint_108
+Added Rule: Name=Schematic Impedance Constraint_109
+Added Rule: Name=Schematic Impedance Constraint_110
+Added Rule: Name=Schematic Impedance Constraint_111
+Added Rule: Name=Schematic Impedance Constraint_112
+Added Rule: Name=Schematic Impedance Constraint_113
+Added Rule: Name=Schematic Impedance Constraint_114
+Added Rule: Name=Schematic Impedance Constraint_115
+Added Rule: Name=Schematic Impedance Constraint_116
+Added Rule: Name=Schematic Impedance Constraint_117
+Added Rule: Name=Schematic Impedance Constraint_118
+Added Rule: Name=Schematic Impedance Constraint_119
+Added Rule: Name=Schematic Impedance Constraint_120
+Added Rule: Name=Schematic Impedance Constraint_121
+Added Rule: Name=Schematic Impedance Constraint_122
+Added Rule: Name=Schematic Impedance Constraint_123
+Added Rule: Name=Schematic Impedance Constraint_124
+Added Rule: Name=Schematic Impedance Constraint_125
+Added Rule: Name=Schematic Impedance Constraint_126
+Added Rule: Name=Schematic Impedance Constraint_127
+Added Rule: Name=Schematic Impedance Constraint_128
+Added Rule: Name=Schematic Impedance Constraint_129
+Added Rule: Name=Schematic Impedance Constraint_130
+Added Rule: Name=Schematic Impedance Constraint_131
+Added Rule: Name=Schematic Impedance Constraint_132
+Added Rule: Name=Schematic Impedance Constraint_133
+Added Rule: Name=Schematic Impedance Constraint_134
+Added Rule: Name=Schematic Impedance Constraint_135
+Added Rule: Name=Schematic Impedance Constraint_136
+Added Rule: Name=Schematic Impedance Constraint_137
+Added Rule: Name=Schematic Matched Net Lengths
+Added Rule: Name=Schematic Matched Net Lengths_17
+Added Rule: Name=Schematic Matched Net Lengths_69
+Added Rule: Name=Schematic Matched Net Lengths_70
+Added Rule: Name=Schematic Matched Net Lengths_73
+Added Rule: Name=Schematic Matched Net Lengths_74
+Added Rule: Name=Schematic Matched Net Lengths_75
+Added Rule: Name=Schematic Matched Net Lengths_76
+Added Rule: Name=Schematic Matched Net Lengths_77
+Added Rule: Name=Schematic Matched Net Lengths_78
+Added Rule: Name=Schematic Matched Net Lengths_79
+Added Rule: Name=Schematic Matched Net Lengths_80
+Added Rule: Name=Schematic Matched Net Lengths_81
+Added Rule: Name=Schematic Matched Net Lengths_82
+Added Rule: Name=Schematic Matched Net Lengths_83
+Added Rule: Name=Schematic Matched Net Lengths_84
+Added Rule: Name=Schematic Matched Net Lengths_85
+Added Rule: Name=Schematic Matched Net Lengths_86
+Added Rule: Name=Schematic Matched Net Lengths_87
+Added Rule: Name=Schematic Matched Net Lengths_88
+Added Rule: Name=Schematic Matched Net Lengths_89
+Added Rule: Name=Schematic Matched Net Lengths_90
+Added Rule: Name=Schematic Matched Net Lengths_91
+Added Rule: Name=Schematic Matched Net Lengths_92
+Added Rule: Name=Schematic Matched Net Lengths_93
+Added Rule: Name=Schematic Matched Net Lengths_94
+Added Rule: Name=Schematic Matched Net Lengths_95
+Added Rule: Name=Schematic Matched Net Lengths_96
+Added Rule: Name=Schematic Matched Net Lengths_97
+Added Rule: Name=Schematic Matched Net Lengths_98
+Added Rule: Name=Schematic Matched Net Lengths_99
+Added Rule: Name=Schematic Matched Net Lengths_100
+Added Rule: Name=Schematic Matched Net Lengths_101
+Added Rule: Name=Schematic Matched Net Lengths_102
+Added Rule: Name=Schematic Matched Net Lengths_103
+Added Rule: Name=Schematic Matched Net Lengths_104
+Added Rule: Name=Schematic Matched Net Lengths_105
+Added Rule: Name=Schematic Matched Net Lengths_106
+Added Rule: Name=Schematic Matched Net Lengths_107
+Added Rule: Name=Schematic Matched Net Lengths_108
+Added Rule: Name=Schematic Matched Net Lengths_109
+Added Rule: Name=Schematic Matched Net Lengths_110
+Added Rule: Name=Schematic Matched Net Lengths_111
+Added Rule: Name=Schematic Matched Net Lengths_112
+Added Rule: Name=Schematic Matched Net Lengths_113
+Added Rule: Name=Schematic Matched Net Lengths_114
+Added Rule: Name=Schematic Matched Net Lengths_115
+Added Rule: Name=Schematic Matched Net Lengths_116
+Added Rule: Name=Schematic Matched Net Lengths_117
+Added Rule: Name=Schematic Matched Net Lengths_118
+Added Rule: Name=Schematic Matched Net Lengths_119
+Added Rule: Name=Schematic Matched Net Lengths_120
+Added Rule: Name=Schematic Matched Net Lengths_121
+Added Rule: Name=Schematic Matched Net Lengths_122
+Added Rule: Name=Schematic Matched Net Lengths_123
+Added Rule: Name=Schematic Matched Net Lengths_124
+Added Rule: Name=Schematic Matched Net Lengths_125
+Added Rule: Name=Schematic Matched Net Lengths_126
+Added Rule: Name=Schematic Matched Net Lengths_127
+Added Rule: Name=Schematic Matched Net Lengths_128
+Added Rule: Name=Schematic Matched Net Lengths_129
+Added Rule: Name=Schematic Matched Net Lengths_130
+Added Rule: Name=Schematic Matched Net Lengths_131
+Added Rule: Name=Schematic Matched Net Lengths_132
+Added Rule: Name=Schematic Matched Net Lengths_133
+Added Rule: Name=Schematic Matched Net Lengths_134
+Added Rule: Name=Schematic Matched Net Lengths_135
+Added Rule: Name=Schematic Matched Net Lengths_136
+Added Rule: Name=Schematic Matched Net Lengths_137
+Added Rule: Name=Schematic Matched Net Lengths_138
+Added Rule: Name=Schematic Matched Net Lengths_139
+Added Rule: Name=Schematic Matched Net Lengths_140
+Added Rule: Name=Schematic Matched Net Lengths_141
+Added Rule: Name=Schematic Maximum Via Count Constraint_11
+Added Rule: Name=Schematic Maximum Via Count Constraint_12
+Added Rule: Name=Schematic Maximum Via Count Constraint_13
+Added Rule: Name=Schematic Maximum Via Count Constraint_14
+Added Rule: Name=Schematic Maximum Via Count Constraint_15
+Added Rule: Name=Schematic Maximum Via Count Constraint_16
+Added Rule: Name=Schematic Maximum Via Count Constraint_17
+Added Rule: Name=Schematic Maximum Via Count Constraint_18
+Added Rule: Name=Schematic Maximum Via Count Constraint_19
+Added Rule: Name=Schematic Maximum Via Count Constraint_20
+Added Rule: Name=Schematic Maximum Via Count Constraint_21
+Added Rule: Name=Schematic Maximum Via Count Constraint_22
+Added Rule: Name=Schematic Maximum Via Count Constraint_23
+Added Rule: Name=Schematic Maximum Via Count Constraint_24
+Added Rule: Name=Schematic Maximum Via Count Constraint_25
+Added Rule: Name=Schematic Maximum Via Count Constraint_26
+Added Rule: Name=Schematic Maximum Via Count Constraint_27
+Added Rule: Name=Schematic Maximum Via Count Constraint_28
+Added Rule: Name=Schematic Maximum Via Count Constraint_29
+Added Rule: Name=Schematic Maximum Via Count Constraint_30
+Added Rule: Name=Schematic Maximum Via Count Constraint_31
+Added Rule: Name=Schematic Maximum Via Count Constraint_32
+Added Rule: Name=Schematic Maximum Via Count Constraint_33
+Added Rule: Name=Schematic Maximum Via Count Constraint_34
+Added Rule: Name=Schematic Maximum Via Count Constraint_35
+Added Rule: Name=Schematic Maximum Via Count Constraint_36
+Added Rule: Name=Schematic Maximum Via Count Constraint_37
+Added Rule: Name=Schematic Maximum Via Count Constraint_38
+Added Rule: Name=Schematic Maximum Via Count Constraint_39
+Added Rule: Name=Schematic Maximum Via Count Constraint_40
+Added Rule: Name=Schematic Maximum Via Count Constraint_41
+Added Rule: Name=Schematic Maximum Via Count Constraint_42
+Added Rule: Name=Schematic Maximum Via Count Constraint_43
+Added Rule: Name=Schematic Maximum Via Count Constraint_44
+Added Rule: Name=Schematic Maximum Via Count Constraint_45
+Added Rule: Name=Schematic Maximum Via Count Constraint_46
+Added Rule: Name=Schematic Maximum Via Count Constraint_47
+Added Rule: Name=Schematic Maximum Via Count Constraint_48
+Added Rule: Name=Schematic Maximum Via Count Constraint_49
+Added Rule: Name=Schematic Maximum Via Count Constraint_50
+Added Rule: Name=Schematic Maximum Via Count Constraint_51
+Added Rule: Name=Schematic Maximum Via Count Constraint_52
+Added Rule: Name=Schematic Maximum Via Count Constraint_53
+Added Rule: Name=Schematic Maximum Via Count Constraint_54
+Added Rule: Name=Schematic Permitted Layers Rule_1
+Added Rule: Name=Schematic Permitted Layers Rule_2
+Added Rule: Name=Schematic Permitted Layers Rule_3
+Added Rule: Name=Schematic Permitted Layers Rule_4
+Added Rule: Name=Schematic Permitted Layers Rule_5
+Added Rule: Name=Schematic Routing Layers_3
+Added Rule: Name=Schematic Routing Layers_4
+Added Rule: Name=Schematic Routing Layers_6
+Added Rule: Name=Schematic Routing Layers_7
+Added Rule: Name=Schematic Routing Layers_11
+Added Rule: Name=Schematic Routing Layers_15
+Added Rule: Name=Schematic Routing Layers_16
+Added Rule: Name=Schematic Routing Layers_17
+Added Rule: Name=Schematic Routing Layers_18
+Added Rule: Name=Schematic Routing Layers_19
+Added Rule: Name=Schematic Routing Layers_20
+Added Rule: Name=Schematic Routing Layers_21
+Added Rule: Name=Schematic Routing Layers_22
+Added Rule: Name=Schematic Routing Layers_23
+Added Rule: Name=Schematic Routing Layers_24
+Added Rule: Name=Schematic Routing Layers_25
+Added Rule: Name=Schematic Routing Layers_26
+Added Rule: Name=Schematic Routing Layers_27
+Added Rule: Name=Schematic Routing Layers_28
+Added Rule: Name=Schematic Routing Layers_29
+Added Rule: Name=Schematic Routing Layers_30
+Added Rule: Name=Schematic Routing Layers_31
+Added Rule: Name=Schematic Routing Layers_32
+Added Rule: Name=Schematic Routing Layers_33
+Added Rule: Name=Schematic Routing Layers_34
+Added Rule: Name=Schematic Routing Layers_35
+Added Rule: Name=Schematic Routing Layers_36
+Added Rule: Name=Schematic Routing Layers_37
+Added Rule: Name=Schematic Routing Layers_38
+Added Rule: Name=Schematic Routing Layers_39
+Added Rule: Name=Schematic Routing Layers_40
+Added Rule: Name=Schematic Routing Layers_41
+Added Rule: Name=Schematic Routing Layers_42
+Added Rule: Name=Schematic Routing Layers_43
+Added Rule: Name=Schematic Routing Layers_44
+Added Rule: Name=Schematic Routing Layers_45
+Added Rule: Name=Schematic Routing Layers_46
+Added Rule: Name=Schematic Routing Layers_47
+Added Rule: Name=Schematic Routing Layers_48
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_4
+Added Rule: Name=Schematic Width Constraint_15
+Added Rule: Name=Schematic Width Constraint_16
+Added Rule: Name=Schematic Width Constraint_17
+Added Rule: Name=Schematic Width Constraint_18
+Added Rule: Name=Schematic Width Constraint_19
+Added Rule: Name=Schematic Width Constraint_20
+Added Rule: Name=Schematic Width Constraint_21
+Added Rule: Name=Schematic Width Constraint_22
+Added Rule: Name=Schematic Width Constraint_23
+Added Rule: Name=Schematic Width Constraint_24
+Added Rule: Name=Schematic Width Constraint_25
+Added Rule: Name=Schematic Width Constraint_26
+Added Rule: Name=Schematic Width Constraint_27
+Added Rule: Name=Schematic Width Constraint_28
+Added Rule: Name=Schematic Width Constraint_29
+Added Rule: Name=Schematic Width Constraint_30
+Added Rule: Name=Schematic Width Constraint_31
+Added Rule: Name=Schematic Width Constraint_32
+Added Rule: Name=Schematic Width Constraint_33
+Added Rule: Name=Schematic Width Constraint_34
+Added Rule: Name=Schematic Width Constraint_35
+Added Rule: Name=Schematic Width Constraint_36
+Added Rule: Name=Schematic Width Constraint_37
+Added Rule: Name=Schematic Width Constraint_38
+Added Rule: Name=Schematic Width Constraint_39
+Added Rule: Name=Schematic Width Constraint_40
+Added Rule: Name=Schematic Width Constraint_41
+Added Rule: Name=Schematic Width Constraint_42
+Added Rule: Name=Schematic Width Constraint_43
+Added Rule: Name=Schematic Width Constraint_44
+Added Rule: Name=Schematic Width Constraint_45
+Added Rule: Name=Schematic Width Constraint_46
+Added Rule: Name=Schematic Width Constraint_47
+Added Rule: Name=Schematic Width Constraint_48
+Added Rule: Name=Schematic Width Constraint_49
+Added Rule: Name=Schematic Width Constraint_50
+Added Rule: Name=Schematic Width Constraint_51
+Added Rule: Name=Schematic Width Constraint_52
+Added Rule: Name=Schematic Width Constraint_53
+Added Rule: Name=Schematic Width Constraint_54
+Added Rule: Name=Schematic Width Constraint_55
+Added Rule: Name=Schematic Width Constraint_56
+Added Rule: Name=Schematic Width Constraint_57
+Added Rule: Name=Schematic Width Constraint_58
+Added Rule: Name=Schematic Width Constraint_59
+Added Rule: Name=Schematic Width Constraint_60
+Added Rule: Name=Schematic Width Constraint_61
+Added Rule: Name=Schematic Width Constraint_62
+Added Rule: Name=Schematic Width Constraint_63
+Added Rule: Name=Schematic Width Constraint_64
+Added Rule: Name=Schematic Width Constraint_65
+Added Rule: Name=Schematic Width Constraint_66
+Added Rule: Name=Schematic Width Constraint_67
+Added Rule: Name=Schematic Width Constraint_68
+Added Rule: Name=Schematic Width Constraint_69
+Added Rule: Name=Schematic Width Constraint_70
+Added Rule: Name=Schematic Width Constraint_71
+Added Rule: Name=Schematic Width Constraint_72
+Added Rule: Name=Schematic Width Constraint_73
+Added Rule: Name=Schematic Width Constraint_74
+Added Rule: Name=Schematic Width Constraint_75
+Added Rule: Name=Schematic Width Constraint_76
+Added Rule: Name=Schematic Width Constraint_77
+Added Rule: Name=Schematic Width Constraint_78
+Added Rule: Name=Schematic Width Constraint_79
+Added Rule: Name=Schematic Width Constraint_80
+Added Rule: Name=Schematic Width Constraint_81
+Added Rule: Name=Schematic Width Constraint_82
+Added Rule: Name=Schematic Width Constraint_83
+Change Rule Scope 1 : Old Scope=InNet('R\A\S\') New Scope=InNet('C\A\S\')
+Change Rule Scope 1 : Old Scope=InNet('C\A\S\') New Scope=InNet('W\E\')
+Change Rule Scope 1 : Old Scope=InNet('UDM') New Scope=InNet('LDM')
+Change Rule Scope 1 : Old Scope=InNet('DQ3') New Scope=InNet('DQ5')
+Change Rule Scope 1 : Old Scope=InNet('DQ10') New Scope=InNet('DQ11')
+Change Rule Scope 1 : Old Scope=InNet('EEPROM_DATA') New Scope=InNet('EEPROM_CS')
+Change Rule Scope 1 : Old Scope=InNet('QSPI_DATA2') New Scope=InNet('QSPI_DATA1')
+Change Rule Scope 1 : Old Scope=InNet('T15') New Scope=InNet('R15')
+Change Rule Scope 1 : Old Scope=InNet('T3') New Scope=InNet('N5')
+Change Rule Scope 1 : Old Scope=InNet('CONFIG_TMS') New Scope=InNet('CONFIG_TDO')
+Change Rule Scope 1 : Old Scope=InNet('DQ3') New Scope=InNet('DQ2')
+Change Rule Scope 1 : Old Scope=InNet('DQ10') New Scope=InNet('DQ12')
+Change Rule Scope 1 : Old Scope=InNet('R\A\S\') New Scope=InNet('W\E\')
+Change Rule Scope 1 : Old Scope=InNet('LDM') New Scope=InNet('UDM')
+Change Rule Scope 1 : Old Scope=InNet('EEPROM_CS') New Scope=InNet('EEPROM_CLK')
+Change Rule Scope 1 : Old Scope=InNet('QSPI_DATA2') New Scope=InNet('QSPI_DATA1')
+Change Rule Scope 1 : Old Scope=InNet('T15') New Scope=InNet('R15')
+Change Rule Scope 1 : Old Scope=InNet('R1') New Scope=InNet('N3')
+Change Rule Scope 1 : Old Scope=InNet('CONFIG_TMS') New Scope=InNet('CONFIG_TDO')
+Change Rule Scope 1 : Old Scope=InNet('W\E\') New Scope=InNet('R\A\S\')
+Change Rule Scope 1 : Old Scope=InNet('UDM') New Scope=InNet('LDM')
+Change Rule Scope 1 : Old Scope=InNet('DQ2') New Scope=InNet('DQ3')
+Change Rule Scope 1 : Old Scope=InNet('DQ10') New Scope=InNet('DQ11')
+Change Rule Scope 1 : Old Scope=InNet('QSPI_DATA2') New Scope=InNet('QSPI_DATA0')
+Change Rule Scope 1 : Old Scope=InNet('QSPI_DATA2') New Scope=InNet('QSPI_DATA0')
+Change Rule Scope 1 : Old Scope=InNet('R\A\S\') New Scope=InNet('W\E\')
+Change Rule Scope 1 : Old Scope=InNet('UDM') New Scope=InNet('LDM')
+Change Rule Scope 1 : Old Scope=InNet('DQ5') New Scope=InNet('DQ2')
+Change Rule Scope 1 : Old Scope=InNet('DQ9') New Scope=InNet('DQ11')
+Change Rule Scope 1 : Old Scope=InNet('LDQS_P') New Scope=InNet('UDQS_N')
+Change Rule Scope 1 : Old Scope=InNet('C\A\S\') New Scope=InNet('R\A\S\')
+Change Rule Scope 1 : Old Scope=InNet('LDM') New Scope=InNet('UDM')
+Change Rule Scope 1 : Old Scope=InNet('DQ2') New Scope=InNet('DQ3')
+Change Rule Scope 1 : Old Scope=InNet('DQ10') New Scope=InNet('DQ11')
+Change Rule Scope 1 : Old Scope=InNet('EEPROM_DATA') New Scope=InNet('EEPROM_CS')
+Change Rule Scope 1 : Old Scope=InNet('QSPI_DATA2') New Scope=InNet('QSPI_DATA1')
+Change Rule Scope 1 : Old Scope=InNet('N13') New Scope=InNet('R15')
+Change Rule Scope 1 : Old Scope=InNet('M1') New Scope=InNet('P5')
+Change Rule Scope 1 : Old Scope=InNet('CONFIG_TCK') New Scope=InNet('CONFIG_TDO')
+Change Rule Scope 1 : Old Scope=InNet('UART_TX') New Scope=InNet('UART_RX')
