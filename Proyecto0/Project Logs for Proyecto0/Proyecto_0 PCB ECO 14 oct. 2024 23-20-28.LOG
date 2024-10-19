@@ -1,0 +1,5 @@
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C64 0.47uF
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire E6
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire K5
+Added Rule: Name=Schematic Differential Pairs Routing_1
+Added Rule: Name=Schematic Differential Pairs Routing_2

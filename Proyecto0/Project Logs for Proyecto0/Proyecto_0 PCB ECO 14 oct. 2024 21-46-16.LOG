@@ -1,0 +1,55 @@
+Added Rule: Name=Schematic Clearance Constraint_27
+Added Rule: Name=Schematic Clearance Constraint_28
+Added Rule: Name=Schematic Differential Pairs Routing_60
+Added Rule: Name=Schematic Differential Pairs Routing_61
+Added Rule: Name=Schematic Differential Pairs Routing_62
+Added Rule: Name=Schematic Impedance Constraint_138
+Added Rule: Name=Schematic Impedance Constraint_139
+Added Rule: Name=Schematic Impedance Constraint_140
+Added Rule: Name=Schematic Impedance Constraint_141
+Added Rule: Name=Schematic Matched Net Lengths_142
+Added Rule: Name=Schematic Matched Net Lengths_143
+Added Rule: Name=Schematic Maximum Via Count Constraint_55
+Added Rule: Name=Schematic Routing Corners_1
+Added Rule: Name=Schematic Width Constraint_84
+Added Rule: Name=Schematic Width Constraint_85
+Added Rule: Name=Schematic Width Constraint_86
+Added Rule: Name=Schematic Width Constraint_87
+Added Rule: Name=Schematic Width Constraint_88
+Added Rule: Name=Schematic Width Constraint_89
+Added Rule: Name=Schematic Width Constraint_90
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_ADD/CMD') New Scope=InNet('C\A\S\')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_ADD/CMD') New Scope=InNet('W\E\')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_CTRL') New Scope=InNet('LDM')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_DATA(0-7)') New Scope=InNet('DQ5')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_DATA(8-15)') New Scope=InNet('DQ11')
+Change Rule Scope 1 : Old Scope=InNetClass('EEPROM_SIGNALS') New Scope=InNet('EEPROM_CS')
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNet('QSPI_DATA1')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_BANK14') New Scope=InNet('R15')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_BANK34') New Scope=InNet('N5')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_CONFIG_SIGNALS') New Scope=InNet('CONFIG_TDO')
+Change Rule Scope 1 : Old Scope=InNet('USB_DATA_P') New Scope=InNet('USB_DATA_N')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_DATA(0-7)') New Scope=InNet('DQ2')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_DATA(8-15)') New Scope=InNet('DQ12')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_ADD/CMD') New Scope=InNet('W\E\')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_CTRL') New Scope=InNet('UDM')
+Change Rule Scope 1 : Old Scope=InNetClass('EEPROM_SIGNALS') New Scope=InNet('EEPROM_CLK')
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNet('QSPI_DATA1')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_BANK14') New Scope=InNet('R15')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_BANK34') New Scope=InNet('N3')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_CONFIG_SIGNALS') New Scope=InNet('CONFIG_TDO')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_ADD/CMD') New Scope=InNet('R\A\S\')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_CTRL') New Scope=InNet('LDM')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_DATA(0-7)') New Scope=InNet('DQ3')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_DATA(8-15)') New Scope=InNet('DQ11')
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNet('QSPI_DATA0')
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNet('QSPI_DATA0')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_ADD/CMD') New Scope=InNet('R\A\S\')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_DATA(0-7)') New Scope=InNet('DQ3')
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_DATA(8-15)') New Scope=InNet('DQ11')
+Change Rule Scope 1 : Old Scope=InNetClass('EEPROM_SIGNALS') New Scope=InNet('EEPROM_CS')
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNet('QSPI_DATA1')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_BANK14') New Scope=InNet('R15')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_BANK34') New Scope=InNet('P5')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_CONFIG_SIGNALS') New Scope=InNet('CONFIG_TDO')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_UART_SIGNALS') New Scope=InNet('UART_RX')
