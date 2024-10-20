@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=LDQS_N Pin=U4-C11
+Removed Pin From Net: NetName=UDQS_P Pin=U4-C12
+Removed Pin From Net: NetName=UDM Pin=U4-C13
+Removed Pin From Net: NetName=LDM Pin=U4-C16
+Added Pin To Net: NetName=LDM Pin=U4-C11
+Added Pin To Net: NetName=UDM Pin=U4-C12
+Added Pin To Net: NetName=UDQS_P Pin=U4-C13
+Added Pin To Net: NetName=LDQS_N Pin=U4-C16
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

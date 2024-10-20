@@ -334,16 +334,6 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -355,16 +345,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1713,7 +1693,7 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=+1V|NetColor=$00FFFF6E
-Net2=NetName=+1V35|NetColor=clYellow
+Net2=NetName=+1V35|NetColor=$00AEAD3A
 Net3=NetName=+1V8|NetColor=$006EFF6E
 Net4=NetName=+3V3|NetColor=$00FF6E6E
 Net5=NetName=+3V3/+1V8|NetColor=$00FF6EFF
