@@ -194,7 +194,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KVPGXSHM
 
 [Document10]
-DocumentPath=Proyecto_0.PcbDoc
+DocumentPath=Proyecto_0 - V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,9 +208,13 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OTRKMDWJ
+DocumentUniqueId=DEMGQWUF
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Proyecto0\Design Rule Check - Proyecto_0 - V2.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=MessageListReport.html
 DItemRevisionGUID=
 
@@ -334,6 +338,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -345,6 +359,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1692,12 +1716,66 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=+1V|NetColor=$00FFFF6E
-Net2=NetName=+1V35|NetColor=$00AEAD3A
-Net3=NetName=+1V8|NetColor=$006EFF6E
-Net4=NetName=+3V3|NetColor=$00FF6E6E
-Net5=NetName=+3V3/+1V8|NetColor=$00FF6EFF
-Net6=NetName=+5V|NetColor=$006E6EFF
+Net1=NetName=+1V|NetColor=$006E6EFF
+Net2=NetName=+1V35|NetColor=$006E6EFF
+Net3=NetName=+1V8|NetColor=$006E6EFF
+Net4=NetName=+1V8'|NetColor=$006E6EFF
+Net5=NetName=+3V3|NetColor=$006E6EFF
+Net6=NetName=+3V3/+1V8|NetColor=$00FF6EFF
+Net7=NetName=+5V|NetColor=$006E6EFF
+Net8=NetName=ADD[14..0]|NetColor=$00FF6E6E
+Net9=NetName=ADD0|NetColor=$00FF6E6E
+Net10=NetName=ADD1|NetColor=$00FF6E6E
+Net11=NetName=ADD10|NetColor=$00FF6E6E
+Net12=NetName=ADD11|NetColor=$00FF6E6E
+Net13=NetName=ADD12|NetColor=$00FF6E6E
+Net14=NetName=ADD13|NetColor=$00FF6E6E
+Net15=NetName=ADD14|NetColor=$00FF6E6E
+Net16=NetName=ADD2|NetColor=$00FF6E6E
+Net17=NetName=ADD3|NetColor=$00FF6E6E
+Net18=NetName=ADD4|NetColor=$00FF6E6E
+Net19=NetName=ADD5|NetColor=$00FF6E6E
+Net20=NetName=ADD6|NetColor=$00FF6E6E
+Net21=NetName=ADD7|NetColor=$00FF6E6E
+Net22=NetName=ADD8|NetColor=$00FF6E6E
+Net23=NetName=ADD9|NetColor=$00FF6E6E
+Net24=NetName=BA[2..0]|NetColor=$006EFF6E
+Net25=NetName=BA0|NetColor=$006EFF6E
+Net26=NetName=BA1|NetColor=$006EFF6E
+Net27=NetName=BA2|NetColor=$006EFF6E
+Net28=NetName=C\A\S\|NetColor=$006EFF6E
+Net29=NetName=C\S\|NetColor=$006EFF6E
+Net30=NetName=CK_N|NetColor=$006EFF6E
+Net31=NetName=CK_P|NetColor=$006EFF6E
+Net32=NetName=CKE|NetColor=$006EFF6E
+Net33=NetName=D\D\R\_\R\E\S\E\T\|NetColor=$006EFF6E
+Net34=NetName=DQ[15..0]|NetColor=$00FF6EFF
+Net35=NetName=DQ0|NetColor=$00FF6EFF
+Net36=NetName=DQ1|NetColor=$00FF6EFF
+Net37=NetName=DQ10|NetColor=$00FF6EFF
+Net38=NetName=DQ11|NetColor=$00FF6EFF
+Net39=NetName=DQ12|NetColor=$00FF6EFF
+Net40=NetName=DQ13|NetColor=$00FF6EFF
+Net41=NetName=DQ14|NetColor=$00FF6EFF
+Net42=NetName=DQ15|NetColor=$00FF6EFF
+Net43=NetName=DQ2|NetColor=$00FF6EFF
+Net44=NetName=DQ3|NetColor=$00FF6EFF
+Net45=NetName=DQ4|NetColor=$00FF6EFF
+Net46=NetName=DQ5|NetColor=$00FF6EFF
+Net47=NetName=DQ6|NetColor=$00FF6EFF
+Net48=NetName=DQ7|NetColor=$00FF6EFF
+Net49=NetName=DQ8|NetColor=$00FF6EFF
+Net50=NetName=DQ9|NetColor=$00FF6EFF
+Net51=NetName=LDM|NetColor=$006EFF6E
+Net52=NetName=LDQS_N|NetColor=$006EFF6E
+Net53=NetName=LDQS_P|NetColor=$006EFF6E
+Net54=NetName=NetU6_T2|NetColor=$006EFF6E
+Net55=NetName=ODT|NetColor=$006EFF6E
+Net56=NetName=R\A\S\|NetColor=$006EFF6E
+Net57=NetName=UDM|NetColor=$006EFF6E
+Net58=NetName=UDQS_N|NetColor=$006EFF6E
+Net59=NetName=UDQS_P|NetColor=$006EFF6E
+Net60=NetName=W\E\|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
