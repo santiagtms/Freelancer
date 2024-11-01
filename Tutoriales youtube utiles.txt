@@ -1,0 +1,24 @@
+https://www.reddit.com/r/ECE/comments/o29im/how_i_feel_while_routing_a_ddr3_interface/?rdt=45799#lightbox
+
+https://electronics.stackexchange.com/questions/502268/ddr3-pcb-design-routing
+https://i.sstatic.net/uHFes.png
+
+https://www.reddit.com/r/AskElectronics/comments/1b1lxg8/ddr3_routing_tips/
+
+Length Tuning in Altium Designer
+	https://www.youtube.com/watch?v=LdqzBb60i6g
+
+Altium Designer Tutorial 26: Altium Design Clearance Rule between PCB Board outline & Copper.
+	https://www.youtube.com/watch?v=hNWkcL6fSX8
+
+High-Speed Tuning in Altium Designer
+	https://www.youtube.com/watch?v=loWr7dq4_zA
+
+Auto-Length Tuning in Altium Designer How-To
+	https://www.youtube.com/watch?v=VsIHuiZ_hjE
+
+How to work with Net Classes in Altium Designer | PCB Layout
+	https://www.youtube.com/watch?v=cfglKhuTWtA
+
+Part and Pin Swapping in Altium Designer | High-speed Design
+	https://www.youtube.com/watch?v=XzNQl5ysxcA
