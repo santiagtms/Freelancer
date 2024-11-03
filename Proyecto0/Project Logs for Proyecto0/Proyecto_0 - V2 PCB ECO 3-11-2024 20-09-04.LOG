@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=EEPROM_DATA Pin=R49-1
+Removed Pin From Net: NetName=+3V3 Pin=R49-2
+Removed Member From Class: ClassName=U_USB_Port_FTT Member=R49
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

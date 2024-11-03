@@ -1,0 +1,40 @@
+Change Net Color : Net Name= CONFIG_TCK Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= CONFIG_TDI Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= CONFIG_TDO Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= CONFIG_TMS Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= DQ0 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ1 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ2 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ3 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ4 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ5 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ6 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ7 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ8 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ9 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ10 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ11 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ12 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ13 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ14 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= DQ15 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= NetR19_1 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= NetR19_2 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= NetR19_3 Old Net Color=Yellow New Net Color=Default
+Change Pin Designator/Name:  Old Designator=U4C-J16 Old Name=IO_L23N_T3_FWE_B_15 New Designator =IO_L15P_T2_DQS_15 New Name=D14
+Change Pin Designator/Name:  Old Designator=U4C-H16 Old Name=IO_L22P_T3_A17_15 New Designator =IO_L18N_T2_A23_15 New Name=E15
+Change Pin Designator/Name:  Old Designator=U4C-C14 Old Name=IO_L8P_T1_AD10P_15 New Designator =IO_L15N_T2_DQS_ADV_B_15 New Name=D15
+Change Pin Designator/Name:  Old Designator=U4C-A14 Old Name=IO_L7N_T1_AD2N_15 New Designator =IO_L9P_T1_DQS_AD3P_15 New Name=B15
+Change Pin Designator/Name:  Old Designator=U4C-B15 Old Name=IO_L9P_T1_DQS_AD3P_15 New Designator =IO_L10P_T1_AD11P_15 New Name=C16
+Change Pin Designator/Name:  Old Designator=U4C-G16 Old Name=IO_L22N_T3_A16_15 New Designator =IO_L18P_T2_A24_15 New Name=F15
+Change Pin Designator/Name:  Old Designator=U4C-A15 Old Name=IO_L9N_T1_DQS_AD3N_15 New Designator =IO_L10N_T1_AD11N_15 New Name=B16
+Change Pin Designator/Name:  Old Designator=U4C-J15 Old Name=IO_L23P_T3_FOE_B_15 New Designator =IO_L22P_T3_A17_15 New Name=H16
+Change Pin Designator/Name:  Old Designator=U4C-A13 Old Name=IO_L7P_T1_AD2P_15 New Designator =IO_L7N_T1_AD2N_15 New Name=A14
+Change Pin Designator/Name:  Old Designator=U4C-D16 Old Name=IO_L17N_T2_A25_15 New Designator =IO_L23N_T3_FWE_B_15 New Name=J16
+Change Pin Designator/Name:  Old Designator=U4C-D14 Old Name=IO_L15P_T2_DQS_15 New Designator =IO_L7P_T1_AD2P_15 New Name=A13
+Change Pin Designator/Name:  Old Designator=U4C-E15 Old Name=IO_L18N_T2_A23_15 New Designator =IO_L23P_T3_FOE_B_15 New Name=J15
+Change Pin Designator/Name:  Old Designator=U4C-D15 Old Name=IO_L15N_T2_DQS_ADV_B_15 New Designator =IO_L17N_T2_A25_15 New Name=D16
+Change Pin Designator/Name:  Old Designator=U4C-B14 Old Name=IO_L8N_T1_AD10N_15 New Designator =IO_L9N_T1_DQS_AD3N_15 New Name=A15
+Change Pin Designator/Name:  Old Designator=U4C-F15 Old Name=IO_L18P_T2_A24_15 New Designator =IO_L22N_T3_A16_15 New Name=G16
+Change Pin Designator/Name:  Old Designator=U4C-C16 Old Name=IO_L10P_T1_AD11P_15 New Designator =IO_L8N_T1_AD10N_15 New Name=B14
+Change Pin Designator/Name:  Old Designator=U4C-B16 Old Name=IO_L10N_T1_AD11N_15 New Designator =IO_L8P_T1_AD10P_15 New Name=C14

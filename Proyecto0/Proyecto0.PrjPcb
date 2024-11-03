@@ -338,16 +338,6 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -359,16 +349,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1750,32 +1730,16 @@ Net31=NetName=CK_P|NetColor=$006EFF6E
 Net32=NetName=CKE|NetColor=$006EFF6E
 Net33=NetName=D\D\R\_\R\E\S\E\T\|NetColor=$006EFF6E
 Net34=NetName=DQ[15..0]|NetColor=$00FF6EFF
-Net35=NetName=DQ0|NetColor=$00FF6EFF
-Net36=NetName=DQ1|NetColor=$00FF6EFF
-Net37=NetName=DQ10|NetColor=$00FF6EFF
-Net38=NetName=DQ11|NetColor=$00FF6EFF
-Net39=NetName=DQ12|NetColor=$00FF6EFF
-Net40=NetName=DQ13|NetColor=$00FF6EFF
-Net41=NetName=DQ14|NetColor=$00FF6EFF
-Net42=NetName=DQ15|NetColor=$00FF6EFF
-Net43=NetName=DQ2|NetColor=$00FF6EFF
-Net44=NetName=DQ3|NetColor=$00FF6EFF
-Net45=NetName=DQ4|NetColor=$00FF6EFF
-Net46=NetName=DQ5|NetColor=$00FF6EFF
-Net47=NetName=DQ6|NetColor=$00FF6EFF
-Net48=NetName=DQ7|NetColor=$00FF6EFF
-Net49=NetName=DQ8|NetColor=$00FF6EFF
-Net50=NetName=DQ9|NetColor=$00FF6EFF
-Net51=NetName=LDM|NetColor=$006EFF6E
-Net52=NetName=LDQS_N|NetColor=$006EFF6E
-Net53=NetName=LDQS_P|NetColor=$006EFF6E
-Net54=NetName=NetU6_T2|NetColor=$006EFF6E
-Net55=NetName=ODT|NetColor=$006EFF6E
-Net56=NetName=R\A\S\|NetColor=$006EFF6E
-Net57=NetName=UDM|NetColor=$006EFF6E
-Net58=NetName=UDQS_N|NetColor=$006EFF6E
-Net59=NetName=UDQS_P|NetColor=$006EFF6E
-Net60=NetName=W\E\|NetColor=$006EFF6E
+Net35=NetName=LDM|NetColor=$006EFF6E
+Net36=NetName=LDQS_N|NetColor=$006EFF6E
+Net37=NetName=LDQS_P|NetColor=$006EFF6E
+Net38=NetName=NetU6_T2|NetColor=$006EFF6E
+Net39=NetName=ODT|NetColor=$006EFF6E
+Net40=NetName=R\A\S\|NetColor=$006EFF6E
+Net41=NetName=UDM|NetColor=$006EFF6E
+Net42=NetName=UDQS_N|NetColor=$006EFF6E
+Net43=NetName=UDQS_P|NetColor=$006EFF6E
+Net44=NetName=W\E\|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

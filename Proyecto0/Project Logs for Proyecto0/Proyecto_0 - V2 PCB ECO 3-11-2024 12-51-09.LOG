@@ -1,0 +1,8 @@
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C9 3.3uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C10 0.1uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C15 0.1uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C72 0.47uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C104 0.1uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component CNT1 USB-C
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component R3 10k
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component U4 XC7A35TFTG256

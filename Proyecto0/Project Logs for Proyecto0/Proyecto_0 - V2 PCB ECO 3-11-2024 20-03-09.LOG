@@ -1,0 +1,17 @@
+Added Component: Designator=R49(RES0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgTCBcDaIMICU4HUAMAWVYCMqDSqAYniALoC%20QA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CRCW040210K0FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EEPROM_DATA Pin=R49-1
+Added Pin To Net: NetName=+3V3 Pin=R49-2
+Change Net Color : Old Net Color=RGB(221, 228, 154) New Net Color=Default
+Change Net Color : Old Net Color=RGB(221, 228, 154) New Net Color=Default
+Change Net Color : Old Net Color=RGB(221, 228, 154) New Net Color=Default
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component R49 10k
