@@ -1,0 +1,18 @@
+Board Information Report
+Filename     : C:\Users\santi\OneDrive\Documentos\PCB_Design\Proyecto0\Proyecto0\Proyecto_0 - V2.PcbDoc
+Date         : 10/11/2024
+Time         : 17:56:11
+Time Elapsed : 00:00:01
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    TOP, 0,834, 538,305, 18%
+    GND[1], 4,174, 2692,86, 92%
+    VDD[1], 4,174, 2692,86, 92%
+    Signal[1], 0,085, 54,989, 2%
+    GND[2], 4,174, 2692,86, 92%
+    VDD[2], 4,174, 2692,86, 92%
+    Signal[2], 0,073, 47,224, 2%
+    GND[3], 4,174, 2692,86, 92%
+    VDD[3], 4,174, 2692,86, 92%
+    Bottom Layer, 0,316, 203,751, 7%
+count : 10

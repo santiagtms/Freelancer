@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetD3_A Pin=R15-1
+Removed Pin From Net: NetName=DONE Pin=R15-2
+Change Component Footprint: Designator=R14 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Footprint: Designator=R15 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Comment : Designator=R15 Old Comment=165R New Comment=165
+Change Component Comment : Designator=R14 Old Comment=200R New Comment=200
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\RGUSGWNZ\UEZFKLFV" ("\VXLQHOQK\RGUSGWNZ\UEZFKLFV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/filter/resistor-de-chip-montaje-en-superficie/52?s=N4IgTCBcDaIMICU4HUAMAWVYytQgYgNIgC6AvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW0402200RFK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\RGUSGWNZ\QKOZABSY" ("\VXLQHOQK\RGUSGWNZ\QKOZABSY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/filter/resistor-de-chip-montaje-en-superficie/52?s=N4IgTCBcDaIMICU4HUAMAWVYCMA2ArAgGIDSIAugL5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW0402165RFK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "165"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DONE Pin=R15-1
+Added Pin To Net: NetName=NetD3_A Pin=R15-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

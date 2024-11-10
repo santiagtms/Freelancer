@@ -22,3 +22,12 @@ How to work with Net Classes in Altium Designer | PCB Layout
 
 Part and Pin Swapping in Altium Designer | High-speed Design
 	https://www.youtube.com/watch?v=XzNQl5ysxcA
+
+ow to Do DDR Memory Bit & Byte Swapping - DDR2, DDR3, DDR4, ....
+	https://www.youtube.com/watch?v=aySAg50S1E8
+
+FPGA and BGA PCB Power Delivery Best Practices
+	https://www.youtube.com/watch?v=DKRtVnDbTgk&t=346s
+
+FPGA/SoC + DDR PCB Design Tips - Phil's Lab #59
+	https://www.youtube.com/watch?v=5vPeSdU22ns

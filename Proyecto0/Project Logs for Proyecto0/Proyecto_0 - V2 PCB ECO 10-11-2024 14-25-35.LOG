@@ -1,0 +1,10 @@
+Added Component: Designator=XTAL2(XTAL_ASFLMB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.snapeda.com/parts/ASFLMB-100.000MHZ-LC-T/Abracon/datasheet/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracom"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=XTAL2-1
+Added Pin To Net: NetName=GND Pin=XTAL2-2
+Added Pin To Net: NetName=100MHz Pin=XTAL2-3
+Added Pin To Net: NetName=+3V3 Pin=XTAL2-4
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component XTAL2 ASFLMB-100.000MHZ-LC-T

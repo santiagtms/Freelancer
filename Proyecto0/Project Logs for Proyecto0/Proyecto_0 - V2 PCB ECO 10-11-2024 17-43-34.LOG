@@ -1,0 +1,3 @@
+Change Physical Footprint: Designator=R12 Old Footprint=RES0603 New Footprint=RES0603
+Change Physical Footprint: Designator=S2 Old Footprint=Push Button New Footprint=Push Button
+Change Physical Footprint: Designator=U6 Old Footprint=FBGA-96 New Footprint=FBGA-96
