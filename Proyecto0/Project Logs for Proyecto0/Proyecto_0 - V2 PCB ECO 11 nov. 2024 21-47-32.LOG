@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IN_Filter_ADC_P Pin=CNT4-17
+Removed Pin From Net: NetName=IN_Filter_ADC_N Pin=CNT4-18
+Added Pin To Net: NetName=IN_Filter_ADC_N Pin=CNT4-17
+Added Pin To Net: NetName=IN_Filter_ADC_P Pin=CNT4-18
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C36 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C53 10uF
