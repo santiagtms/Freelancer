@@ -338,6 +338,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -349,6 +359,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1226,26 +1246,13 @@ Net21=NetName=ADD7|NetColor=$00FF6E6E
 Net22=NetName=ADD8|NetColor=$00FF6E6E
 Net23=NetName=ADD9|NetColor=$00FF6E6E
 Net24=NetName=BA[2..0]|NetColor=$006EFF6E
-Net25=NetName=BA0|NetColor=$006EFF6E
-Net26=NetName=BA1|NetColor=$006EFF6E
-Net27=NetName=BA2|NetColor=$006EFF6E
-Net28=NetName=C\A\S\|NetColor=$006EFF6E
-Net29=NetName=C\S\|NetColor=$006EFF6E
-Net30=NetName=CK_N|NetColor=$006EFF6E
-Net31=NetName=CK_P|NetColor=$006EFF6E
-Net32=NetName=CKE|NetColor=$006EFF6E
-Net33=NetName=D\D\R\_\R\E\S\E\T\|NetColor=$006EFF6E
-Net34=NetName=DQ[15..0]|NetColor=$00FF6EFF
-Net35=NetName=LDM|NetColor=$006EFF6E
-Net36=NetName=LDQS_N|NetColor=$006EFF6E
-Net37=NetName=LDQS_P|NetColor=$006EFF6E
-Net38=NetName=NetU6_T2|NetColor=$006EFF6E
-Net39=NetName=ODT|NetColor=$006EFF6E
-Net40=NetName=R\A\S\|NetColor=$006EFF6E
-Net41=NetName=UDM|NetColor=$006EFF6E
-Net42=NetName=UDQS_N|NetColor=$006EFF6E
-Net43=NetName=UDQS_P|NetColor=$006EFF6E
-Net44=NetName=W\E\|NetColor=$006EFF6E
+Net25=NetName=CK_N|NetColor=$006EFF6E
+Net26=NetName=CK_P|NetColor=$006EFF6E
+Net27=NetName=DQ[15..0]|NetColor=$00FF6EFF
+Net28=NetName=LDQS_N|NetColor=$006EFF6E
+Net29=NetName=LDQS_P|NetColor=$006EFF6E
+Net30=NetName=UDQS_N|NetColor=$006EFF6E
+Net31=NetName=UDQS_P|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

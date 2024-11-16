@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=UDQS_N Pin=U4-A13
+Removed Pin From Net: NetName=UDQS_P Pin=U4-B11
+Removed Pin From Net: NetName=R\A\S\ Pin=U4-D9
+Added Pin To Net: NetName=R\A\S\ Pin=U4-A13
+Added Pin To Net: NetName=UDQS_P Pin=U4-D8
+Added Pin To Net: NetName=UDQS_N Pin=U4-D9
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default

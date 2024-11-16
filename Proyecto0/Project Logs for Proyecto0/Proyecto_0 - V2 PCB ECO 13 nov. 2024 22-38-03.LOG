@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LDQS_N Pin=U4-D8
+Added Pin To Net: NetName=LDQS_N Pin=U4-A9
+Added Member To Class: ClassName=U_DDR_Memory Member=Component U6 AS4C256M16D3LC
+Added Room: Name=U_Bank_A-B-C-D
+Added Room: Name=U_DDR_Memory
+Added Room: Name=U_Flash_Memory
+Added Room: Name=U_FPGA_Power&Ports
+Added Room: Name=U_Leds_and_Buttons
+Added Room: Name=U_Power_Supply
+Added Room: Name=U_USB_Port_FTT

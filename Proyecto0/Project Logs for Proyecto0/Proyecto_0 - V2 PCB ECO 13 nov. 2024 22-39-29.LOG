@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LDQS_P Pin=U4-A8
+Removed Pin From Net: NetName=LDQS_N Pin=U4-A9
+Added Pin To Net: NetName=LDQS_N Pin=U4-A8
+Added Pin To Net: NetName=LDQS_P Pin=U4-A9
