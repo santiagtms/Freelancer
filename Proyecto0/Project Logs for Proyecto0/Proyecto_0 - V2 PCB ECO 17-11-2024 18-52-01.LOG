@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=QSPI_DATA1 Pin=R16-7
+Removed Pin From Net: NetName=QSPI_DATA0 Pin=R16-8
+Added Pin To Net: NetName=QSPI_DATA0 Pin=R16-7
+Added Pin To Net: NetName=QSPI_DATA1 Pin=R16-8
+Change Net Name : Old Net Name=QSPI_DATA0_T New Net Name=QSPI_DATA1_T
+Change Net Name : Old Net Name=QSPI_DATA1_T New Net Name=QSPI_DATA0_T

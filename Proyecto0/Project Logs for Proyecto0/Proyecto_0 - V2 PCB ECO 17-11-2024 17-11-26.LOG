@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=L5 Pin=CNT4-20
+Removed Pin From Net: NetName=P5 Pin=CNT4-21
+Removed Pin From Net: NetName=CONFIG_TCK Pin=CNT4-27
+Removed Pin From Net: NetName=CONFIG_TMS Pin=CNT4-28
+Removed Pin From Net: NetName=CONFIG_TDI Pin=CNT4-30
+Removed Pin From Net: NetName=CONFIG_TDO Pin=CNT4-31
+Removed Pin From Net: NetName=UART_TX Pin=U1-48
+Removed Pin From Net: NetName=UART_RX Pin=U1-52
+Added Pin To Net: NetName=CONFIG_TDO Pin=CNT4-20
+Added Pin To Net: NetName=CONFIG_TDI Pin=CNT4-21
+Added Pin To Net: NetName=P5 Pin=CNT4-27
+Added Pin To Net: NetName=L5 Pin=CNT4-28
+Added Pin To Net: NetName=CONFIG_TCK Pin=CNT4-30
+Added Pin To Net: NetName=CONFIG_TMS Pin=CNT4-31
+Added Pin To Net: NetName=UART_TX Pin=U1-45
+Added Pin To Net: NetName=UART_RX Pin=U1-46
+Added Member To Class: ClassName=U_Bank_A-B-C-D Member=Component CNT4 528850574

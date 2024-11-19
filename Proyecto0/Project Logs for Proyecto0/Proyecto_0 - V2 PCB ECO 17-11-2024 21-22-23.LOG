@@ -1,0 +1,11 @@
+Change component parameters: Designator = "R48" ("R48"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\GACWXMVO\TYVQJLIB" ("\VXLQHOQK\GACWXMVO\TYVQJLIB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/CRCW0603240RFKEA/1174595"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW0402240RFKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "240"; VariantName = "[No Variations]"

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=IN_Filter_ADC_P Pin=CNT4-17
+Removed Pin From Net: NetName=IN_Filter_ADC_N Pin=CNT4-18
+Added Pin To Net: NetName=IN_Filter_ADC_N Pin=CNT4-17
+Added Pin To Net: NetName=IN_Filter_ADC_P Pin=CNT4-18
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Class: Name=Leds&ResetButton
+Added Rule: Name=Schematic Width Constraint_3

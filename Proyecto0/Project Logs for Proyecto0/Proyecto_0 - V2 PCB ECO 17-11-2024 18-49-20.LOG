@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetR16_1 New Net Name=QSPI_DATA0_T
+Change Net Name : Old Net Name=NetR16_2 New Net Name=QSPI_DATA1_T
+Change Net Name : Old Net Name=NetR16_3 New Net Name=QSPI_DATA2_T
+Change Net Name : Old Net Name=NetR16_4 New Net Name=QSPI_DATA3_T

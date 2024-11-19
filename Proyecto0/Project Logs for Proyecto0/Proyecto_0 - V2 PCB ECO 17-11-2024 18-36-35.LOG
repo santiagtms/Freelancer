@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=PROGRAM_B Pin=CNT4-8
+Removed Pin From Net: NetName=DONE Pin=CNT4-9
+Removed Pin From Net: NetName=L5 Pin=CNT4-20
+Removed Pin From Net: NetName=P5 Pin=CNT4-21
+Removed Pin From Net: NetName=UART_TX Pin=CNT4-23
+Removed Pin From Net: NetName=UART_RX Pin=CNT4-24
+Removed Pin From Net: NetName=CONFIG_TCK Pin=CNT4-27
+Removed Pin From Net: NetName=CONFIG_TMS Pin=CNT4-28
+Removed Pin From Net: NetName=CONFIG_TDI Pin=CNT4-30
+Removed Pin From Net: NetName=CONFIG_TDO Pin=CNT4-31
+Removed Pin From Net: NetName=+3V3 Pin=R11-1
+Removed Pin From Net: NetName=QSPI_DATA2 Pin=R11-2
+Removed Pin From Net: NetName=+3V3 Pin=R12-1
+Removed Pin From Net: NetName=QSPI_DATA3 Pin=R12-2
+Removed Pin From Net: NetName=+3V3 Pin=R13-1
+Removed Pin From Net: NetName=QSPI_\C\S\ Pin=R13-2
+Change Component Footprint: Designator=R11 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Footprint: Designator=R12 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Footprint: Designator=R13 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Comment : Designator=R11 Old Comment=4.7 k New Comment=4.7k
+Change Component Comment : Designator=R12 Old Comment=4.7 k New Comment=4.7k
+Change Component Comment : Designator=R13 Old Comment=4.7 k New Comment=4.7k
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\ARKPNVAD\MIQRMOBV" ("\VXLQHOQK\ARKPNVAD\MIQRMOBV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/filter/resistor-de-chip-montaje-en-superficie/52?s=N4IgTCBcDaIMICU4HUAMAWVZ0GkDsqAYjiALoC%20QA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW04024K70FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\ARKPNVAD\YWQUYGLE" ("\VXLQHOQK\ARKPNVAD\YWQUYGLE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/filter/resistor-de-chip-montaje-en-superficie/52?s=N4IgTCBcDaIMICU4HUAMAWVZ0GkDsqAYjiALoC%20QA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW04024K70FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\ARKPNVAD\PRYMAXCE" ("\VXLQHOQK\ARKPNVAD\PRYMAXCE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/filter/resistor-de-chip-montaje-en-superficie/52?s=N4IgTCBcDaIMICU4HUAMAWVZ0GkDsqAYjiALoC%20QA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW04024K70FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UART_TX Pin=CNT4-8
+Added Pin To Net: NetName=UART_RX Pin=CNT4-9
+Added Pin To Net: NetName=CONFIG_TDO Pin=CNT4-20
+Added Pin To Net: NetName=CONFIG_TDI Pin=CNT4-21
+Added Pin To Net: NetName=DONE Pin=CNT4-23
+Added Pin To Net: NetName=PROGRAM_B Pin=CNT4-24
+Added Pin To Net: NetName=P5 Pin=CNT4-27
+Added Pin To Net: NetName=L5 Pin=CNT4-28
+Added Pin To Net: NetName=CONFIG_TCK Pin=CNT4-30
+Added Pin To Net: NetName=CONFIG_TMS Pin=CNT4-31
+Added Pin To Net: NetName=QSPI_DATA2 Pin=R11-1
+Added Pin To Net: NetName=+3V3 Pin=R11-2
+Added Pin To Net: NetName=QSPI_DATA3 Pin=R12-1
+Added Pin To Net: NetName=+3V3 Pin=R12-2
+Added Pin To Net: NetName=QSPI_\C\S\ Pin=R13-1
+Added Pin To Net: NetName=+3V3 Pin=R13-2
+Change Rule Scope 1 : Old Scope=InNetClass('DDR_ADD/CMD') New Scope=InNet('C\A\S\')

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=QSPI_DATA2 Pin=R11-1
+Added Pin To Net: NetName=+3V3 Pin=R11-2
+Added Pin To Net: NetName=QSPI_DATA3 Pin=R12-1
+Added Pin To Net: NetName=+3V3 Pin=R12-2
+Added Pin To Net: NetName=QSPI_\C\S\ Pin=R13-1
+Added Pin To Net: NetName=+3V3 Pin=R13-2

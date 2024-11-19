@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=FLASH_SPI Member=QSPI_\C\S\
+Removed Member From Class: ClassName=FLASH_SPI Member=QSPI_CCLK
+Added Member To Class: ClassName=FLASH_SPI_T Member=Wire QSPI_\C\S\
+Added Member To Class: ClassName=FLASH_SPI_T Member=Wire QSPI_CCLK

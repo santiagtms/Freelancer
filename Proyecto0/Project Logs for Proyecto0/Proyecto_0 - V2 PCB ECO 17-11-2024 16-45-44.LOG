@@ -1,0 +1,4 @@
+Added Class: Name=FPGA_CONFIG_SIGNALS
+Added Rule: Name=Schematic Impedance Constraint_1
+Added Rule: Name=Schematic Matched Net Lengths_8
+Added Rule: Name=Schematic Width Constraint_1

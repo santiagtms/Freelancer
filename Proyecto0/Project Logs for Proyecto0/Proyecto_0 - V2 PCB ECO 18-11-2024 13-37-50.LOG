@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=LED5 Pin=CNT4-3
+Removed Pin From Net: NetName=LED7 Pin=CNT4-6
+Removed Pin From Net: NetName=+3V3 Pin=R17-1
+Removed Pin From Net: NetName=+3V3 Pin=R18-1
+Removed Pin From Net: NetName=PROGRAM_B Pin=R18-2
+Removed Pin From Net: NetName=LED6 Pin=U4-M15
+Removed Pin From Net: NetName=LED7 Pin=U4-M16
+Removed Pin From Net: NetName=LED5 Pin=U4-N16
+Removed Pin From Net: NetName=LED3 Pin=U4-P15
+Removed Pin From Net: NetName=LED4 Pin=U4-P16
+Removed Pin From Net: NetName=LED1 Pin=U4-R15
+Removed Pin From Net: NetName=LED2 Pin=U4-R16
+Removed Pin From Net: NetName=LED0 Pin=U4-T15
+Change Component Footprint: Designator=R17 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Footprint: Designator=R18 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Footprint: Designator=R47 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Comment : Designator=R17 Old Comment=4.7 k New Comment=4.7k
+Change Component Comment : Designator=R18 Old Comment=4.7 k New Comment=4.7k
+Change Component Comment : Designator=R47 Old Comment=10 K New Comment=10k
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\RGUSGWNZ\TWLHBBGX" ("\VXLQHOQK\RGUSGWNZ\TWLHBBGX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/filter/resistor-de-chip-montaje-en-superficie/52?s=N4IgTCBcDaIMICU4HUAMAWVZ0GkDsqAYjiALoC%20QA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW04024K70FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\RGUSGWNZ\IRWOTPEA" ("\VXLQHOQK\RGUSGWNZ\IRWOTPEA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/es/products/filter/resistor-de-chip-montaje-en-superficie/52?s=N4IgTCBcDaIMICU4HUAMAWVZ0GkDsqAYjiALoC%20QA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW04024K70FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47" ("R47"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\LZFLNUTC\PHXHMZJN" ("\VXLQHOQK\LZFLNUTC\PHXHMZJN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgTCBcDaIMICU4HUAMAWVYCMqDSqAYniALoC%20QA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW040210K0FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED7 Pin=CNT4-3
+Added Pin To Net: NetName=LED5 Pin=CNT4-6
+Added Pin To Net: NetName=+3V3 Pin=R17-2
+Added Pin To Net: NetName=PROGRAM_B Pin=R18-1
+Added Pin To Net: NetName=+3V3 Pin=R18-2
+Added Pin To Net: NetName=LED2 Pin=U4-M15
+Added Pin To Net: NetName=LED6 Pin=U4-M16
+Added Pin To Net: NetName=LED7 Pin=U4-N16
+Added Pin To Net: NetName=LED4 Pin=U4-P15
+Added Pin To Net: NetName=LED3 Pin=U4-P16
+Added Pin To Net: NetName=LED5 Pin=U4-R15
+Added Pin To Net: NetName=LED0 Pin=U4-R16
+Added Pin To Net: NetName=LED1 Pin=U4-T15
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U4-K10
+Added Net: Name=NetR17_1
+Added Rule: Name=Schematic Clearance Constraint_26

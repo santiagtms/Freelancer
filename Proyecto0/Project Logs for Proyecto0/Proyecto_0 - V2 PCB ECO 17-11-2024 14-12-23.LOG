@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=NetR19_1 New Net Name=CONFIG_TCK_T
+Change Net Name : Old Net Name=NetR19_2 New Net Name=CONFIG_TMS_T
+Change Net Name : Old Net Name=NetR19_3 New Net Name=CONFIG_TDI_T
+Added Member To Class: ClassName=FPGA_CONFIG_SIGNALS Member=Wire CONFIG_TCK_T
+Added Member To Class: ClassName=FPGA_CONFIG_SIGNALS Member=Wire CONFIG_TDI_T
+Added Member To Class: ClassName=FPGA_CONFIG_SIGNALS Member=Wire CONFIG_TMS_T
+Added Rule: Name=Schematic Impedance Constraint_1
+Added Rule: Name=Schematic Matched Net Lengths_8
+Added Rule: Name=Schematic Width Constraint_1

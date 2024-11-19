@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=QSPI_DATA3 Pin=R16-5
+Removed Pin From Net: NetName=QSPI_DATA0 Pin=R16-8
+Change Component Designator: OldDesignator=3 NewDesignator=U4
+Added Pin To Net: NetName=QSPI_DATA0 Pin=R16-5
+Added Pin To Net: NetName=QSPI_DATA3 Pin=R16-8
+Change Net Name : Old Net Name=QSPI_DATA0_T New Net Name=QSPI_DATA3_T
+Change Net Name : Old Net Name=QSPI_DATA3_T New Net Name=QSPI_DATA0_T

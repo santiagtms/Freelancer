@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=FPGA_CONFIG_SIGNALS Member=CONFIG_TCK_T
+Removed Member From Class: ClassName=FPGA_CONFIG_SIGNALS Member=CONFIG_TDI_T
+Removed Member From Class: ClassName=FPGA_CONFIG_SIGNALS Member=CONFIG_TMS_T
+Added Class: Name=FPGA_CONFIG_SIGNALS_2
+Added Rule: Name=Schematic Impedance Constraint_2
+Added Rule: Name=Schematic Matched Net Lengths_9
+Added Rule: Name=Schematic Width Constraint_2
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_CONFIG_SIGNALS') New Scope=InNetClass('FPGA_CONFIG_SIGNALS_2')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_CONFIG_SIGNALS') New Scope=InNetClass('FPGA_CONFIG_SIGNALS_2')
+Change Rule Scope 1 : Old Scope=InNetClass('FPGA_CONFIG_SIGNALS') New Scope=InNetClass('FPGA_CONFIG_SIGNALS_2')

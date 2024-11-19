@@ -1,0 +1,18 @@
+Change Net Color : Net Name= ADD0 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD2 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD3 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD4 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD5 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD6 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD7 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD8 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD9 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD10 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD11 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD12 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD13 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Net Name= ADD14 Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Pin Designator/Name:  Old Designator=U4C-B14 Old Name=IO_L8N_T1_AD10N_15 New Designator =IO_L5P_T0_AD9P_15 New Name=B12
+Change Pin Designator/Name:  Old Designator=U4C-H12 Old Name=IO_L20P_T3_A20_15 New Designator =IO_L20N_T3_A19_15 New Name=H13
+Change Pin Designator/Name:  Old Designator=U4C-B12 Old Name=IO_L5P_T0_AD9P_15 New Designator =IO_L8N_T1_AD10N_15 New Name=B14
+Change Pin Designator/Name:  Old Designator=U4C-H13 Old Name=IO_L20N_T3_A19_15 New Designator =IO_L20P_T3_A20_15 New Name=H12

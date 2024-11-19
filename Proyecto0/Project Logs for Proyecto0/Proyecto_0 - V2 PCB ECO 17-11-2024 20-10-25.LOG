@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=FLASH_SPI Member=QSPI_DATA1_T
+Removed Member From Class: ClassName=FLASH_SPI Member=QSPI_DATA2_T
+Removed Member From Class: ClassName=FLASH_SPI Member=QSPI_DATA3_T
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Class: Name=FLASH_SPI_T
+Added Rule: Name=Schematic Impedance Constraint_4
+Added Rule: Name=Schematic Matched Net Lengths_11
+Added Rule: Name=Schematic Maximum Via Count Constraint_4
+Added Rule: Name=Schematic Permitted Layers Rule_1
+Added Rule: Name=Schematic Width Constraint_2
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNetClass('FLASH_SPI_T')
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNetClass('FLASH_SPI_T')
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNetClass('FLASH_SPI_T')
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNetClass('FLASH_SPI_T')
+Change Rule Scope 1 : Old Scope=InNetClass('FLASH_SPI') New Scope=InNetClass('FLASH_SPI_T')

@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=FLASH_SPI Member=Wire QSPI_DATA0_T
+Added Member To Class: ClassName=FLASH_SPI Member=Wire QSPI_DATA1_T
+Added Member To Class: ClassName=FLASH_SPI Member=Wire QSPI_DATA2_T
+Added Member To Class: ClassName=FLASH_SPI Member=Wire QSPI_DATA3_T
+Added Rule: Name=Schematic Impedance Constraint_3
+Added Rule: Name=Schematic Matched Net Lengths_10
+Added Rule: Name=Schematic Maximum Via Count Constraint_1
+Added Rule: Name=Schematic Permitted Layers Rule
+Added Rule: Name=Schematic Width Constraint_1
