@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=FPGA_CONFIG_SIGNALS_2 Member=CONFIG_TDO_T
+Added Pin To Net: NetName=CONFIG_TDO Pin=U4-N8
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(40, 46, 72) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(40, 46, 72) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(40, 46, 72) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)

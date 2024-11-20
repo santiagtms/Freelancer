@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CONFIG_TDO Pin=U4-N8
+Added Component: Designator=NT1(Tie_Net 5x5mill)
+Added Pin To Net: NetName=CONFIG_TDO Pin=NT1-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=CONFIG_TDO_T Pin=NT1-1
+Added Pin To Net: NetName=CONFIG_TDO_T Pin=U4-N8
+Added Net: Name=CONFIG_TDO_T
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component NT1 Net_Tie
+Added Member To Class: ClassName=FPGA_CONFIG_SIGNALS_2 Member=Wire CONFIG_TDO_T
+Added Rule: Name=Schematic Clearance Constraint_29

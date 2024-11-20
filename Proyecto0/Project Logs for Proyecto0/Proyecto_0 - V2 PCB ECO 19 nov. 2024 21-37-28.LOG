@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=R22 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Footprint: Designator=R23 Old Footprint=RES0603 New Footprint=RES0402
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\GACWXMVO\PEKKIWEK" ("\VXLQHOQK\GACWXMVO\PEKKIWEK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgTCBcDaIMICU4HUAMAWVYCMBpVqAYriALoC%20QA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW04021K00FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RES0603"; UniqueID = "\VXLQHOQK\GACWXMVO\USUZWJQX" ("\VXLQHOQK\GACWXMVO\USUZWJQX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgTCBcDaIMICU4HUAMAWVYCMBpVqAYriALoC%20QA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW04021K00FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.063W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=+3V3 Pin=R17-2
+Added Pin To Net: NetName=PROGRAM_B Pin=R18-1
+Added Pin To Net: NetName=+3V3 Pin=R18-2
+Added Rule: Name=Schematic Clearance Constraint_13
