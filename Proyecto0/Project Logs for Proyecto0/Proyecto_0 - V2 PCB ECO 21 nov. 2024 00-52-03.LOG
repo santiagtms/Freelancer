@@ -1,0 +1,129 @@
+Removed Member From Class: ClassName=FPGA_BANK34 Member=L4
+Removed Member From Class: ClassName=FPGA_BANK34 Member=M1
+Removed Member From Class: ClassName=FPGA_BANK34 Member=M2
+Removed Member From Class: ClassName=FPGA_BANK34 Member=M4
+Removed Member From Class: ClassName=FPGA_BANK34 Member=N1
+Removed Member From Class: ClassName=FPGA_BANK34 Member=N2
+Removed Member From Class: ClassName=FPGA_BANK34 Member=N3
+Removed Member From Class: ClassName=FPGA_BANK34 Member=N4
+Removed Member From Class: ClassName=FPGA_BANK34 Member=N5
+Removed Member From Class: ClassName=FPGA_BANK34 Member=P1
+Removed Member From Class: ClassName=FPGA_BANK34 Member=P3
+Removed Member From Class: ClassName=FPGA_BANK34 Member=P4
+Removed Member From Class: ClassName=FPGA_BANK34 Member=P5
+Removed Member From Class: ClassName=FPGA_BANK34 Member=R1
+Removed Member From Class: ClassName=FPGA_BANK34 Member=R2
+Removed Member From Class: ClassName=FPGA_BANK34 Member=R3
+Removed Member From Class: ClassName=FPGA_BANK34 Member=T2
+Removed Member From Class: ClassName=FPGA_BANK34 Member=T3
+Removed Member From Class: ClassName=FPGA_BANK34 Member=T4
+Added Pin To Net: NetName=L6_N Pin=CNT3-42
+Added Pin To Net: NetName=L6_P Pin=CNT3-43
+Added Pin To Net: NetName=L4_N Pin=CNT3-45
+Added Pin To Net: NetName=L4_P Pin=CNT3-46
+Added Pin To Net: NetName=L6_P Pin=U4-M5
+Added Pin To Net: NetName=L4_P Pin=U4-N1
+Added Pin To Net: NetName=L6_N Pin=U4-N4
+Added Pin To Net: NetName=L4_N Pin=U4-P1
+Change Net Name : Old Net Name=L4 New Net Name=L1_P
+Change Net Name : Old Net Name=M1 New Net Name=L2_N
+Change Net Name : Old Net Name=M2 New Net Name=L2_P
+Change Net Name : Old Net Name=M4 New Net Name=L1_N
+Change Net Name : Old Net Name=N2 New Net Name=L3_N
+Change Net Name : Old Net Name=N3 New Net Name=L3_P
+Change Net Name : Old Net Name=P3 New Net Name=L5_N
+Change Net Name : Old Net Name=P4 New Net Name=L5_P
+Change Net Name : Old Net Name=P5 New Net Name=L10
+Change Net Name : Old Net Name=R1 New Net Name=L7_N
+Change Net Name : Old Net Name=R2 New Net Name=L7_P
+Change Net Name : Old Net Name=R3 New Net Name=L8_P
+Change Net Name : Old Net Name=T2 New Net Name=L8_N
+Change Net Name : Old Net Name=T3 New Net Name=L9_N
+Change Net Name : Old Net Name=T4 New Net Name=L9_P
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Added Differential Pair: Name=L1
+Added Differential Pair: Name=L2
+Added Differential Pair: Name=L3
+Added Differential Pair: Name=L5
+Added Differential Pair: Name=L7
+Added Differential Pair: Name=L8
+Added Differential Pair: Name=L9
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L1_N
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L1_P
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L2_N
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L2_P
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L3_N
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L3_P
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L4_N
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L4_P
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L5_N
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L5_P
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L6_N
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L6_P
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L7_N
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L7_P
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L8_N
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L8_P
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L9_N
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L9_P
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire L10
+Added Rule: Name=Schematic Clearance Constraint_30
+Added Rule: Name=Schematic Clearance Constraint_31
+Added Rule: Name=Schematic Differential Pairs Routing_56
+Added Rule: Name=Schematic Differential Pairs Routing_63
+Added Rule: Name=Schematic Differential Pairs Routing_64
+Added Rule: Name=Schematic Differential Pairs Routing_65
+Added Rule: Name=Schematic Differential Pairs Routing_66
+Added Rule: Name=Schematic Differential Pairs Routing_67
+Added Rule: Name=Schematic Differential Pairs Routing_68
+Added Rule: Name=Schematic Differential Pairs Routing_69
+Added Rule: Name=Schematic Differential Pairs Routing_70
+Added Rule: Name=Schematic Differential Pairs Routing_71
+Added Rule: Name=Schematic Differential Pairs Routing_72
+Added Rule: Name=Schematic Differential Pairs Routing_73
+Added Rule: Name=Schematic Differential Pairs Routing_74
+Added Rule: Name=Schematic Differential Pairs Routing_75
+Added Rule: Name=Schematic Differential Pairs Routing_76
+Added Rule: Name=Schematic Differential Pairs Routing_77
+Added Rule: Name=Schematic Differential Pairs Routing_78
+Added Rule: Name=Schematic Differential Pairs Routing_79
+Added Rule: Name=Schematic Impedance Constraint_5
+Added Rule: Name=Schematic Impedance Constraint_6
+Added Rule: Name=Schematic Impedance Constraint_8
+Added Rule: Name=Schematic Impedance Constraint_9
+Added Rule: Name=Schematic Impedance Constraint_24
+Added Rule: Name=Schematic Impedance Constraint_28
+Added Rule: Name=Schematic Impedance Constraint_47
+Added Rule: Name=Schematic Impedance Constraint_69
+Added Rule: Name=Schematic Impedance Constraint_70
+Added Rule: Name=Schematic Impedance Constraint_71
+Added Rule: Name=Schematic Impedance Constraint_72
+Added Rule: Name=Schematic Impedance Constraint_73
+Added Rule: Name=Schematic Impedance Constraint_74
+Added Rule: Name=Schematic Impedance Constraint_75
+Added Rule: Name=Schematic Impedance Constraint_76
+Added Rule: Name=Schematic Impedance Constraint_77
+Added Rule: Name=Schematic Impedance Constraint_78
+Added Rule: Name=Schematic Impedance Constraint_79
+Change Rule Scope 1 : Old Scope=InNet('LDM') New Scope=InNet('UDM')
+Change Rule Scope 1 : Old Scope=InNet('R\A\S\') New Scope=InNet('C\A\S\')
+Added Member To Class: ClassName=FPGA_PORT35_DIFF Member=L1
+Added Member To Class: ClassName=FPGA_PORT35_DIFF Member=L2
+Added Member To Class: ClassName=FPGA_PORT35_DIFF Member=L3
+Added Member To Class: ClassName=FPGA_PORT35_DIFF Member=L5
+Added Member To Class: ClassName=FPGA_PORT35_DIFF Member=L7
+Added Member To Class: ClassName=FPGA_PORT35_DIFF Member=L8
+Added Member To Class: ClassName=FPGA_PORT35_DIFF Member=L9

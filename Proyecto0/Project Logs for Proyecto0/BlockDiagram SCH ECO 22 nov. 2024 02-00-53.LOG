@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=U4D-N4 Old Name=IO_L6N_T0_VREF_34 New Designator =IO_L9N_T1_DQS_34 New Name=T3
+Change Pin Designator/Name:  Old Designator=U4D-M5 Old Name=IO_L6P_T0_34 New Designator =IO_L9P_T1_DQS_34 New Name=T4
+Change Pin Designator/Name:  Old Designator=U4D-T3 Old Name=IO_L9N_T1_DQS_34 New Designator =IO_L6N_T0_VREF_34 New Name=N4
+Change Pin Designator/Name:  Old Designator=U4D-T4 Old Name=IO_L9P_T1_DQS_34 New Designator =IO_L6P_T0_34 New Name=M5

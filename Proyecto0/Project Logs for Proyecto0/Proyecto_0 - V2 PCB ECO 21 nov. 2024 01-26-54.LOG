@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=+3V3/+1V8 Pin=C49-2
+Removed Member From Class: ClassName=U_FPGA_Power&Ports Member=C49
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Impedance Constraint_11
+Added Rule: Name=Schematic Impedance Constraint_12
+Added Rule: Name=Schematic Impedance Constraint_15
+Added Rule: Name=Schematic Matched Net Lengths_12
+Added Rule: Name=Schematic Matched Net Lengths_13
+Change Rule Scope 1 : Old Scope=InNet('UDM') New Scope=InNet('LDM')
+Change Rule Scope 1 : Old Scope=InNet('C\A\S\') New Scope=InNet('R\A\S\')
+Change Rule Scope 1 : Old Scope=InNet('L15_N') New Scope=InNet('L11_N')
+Change Rule Scope 1 : Old Scope=InNet('L11_N') New Scope=InNet('L21_N')
+Change Rule Scope 1 : Old Scope=InNet('L21_N') New Scope=InNet('L19_N')
+Change Rule Scope 1 : Old Scope=InNet('L18_N') New Scope=InNet('L24_N')
+Change Rule Scope 1 : Old Scope=InNet('L18_N') New Scope=InNet('L24_N')
+Change Rule Scope 1 : Old Scope=InNet('L24_N') New Scope=InNet('AD6_N')

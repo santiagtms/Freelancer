@@ -1,0 +1,186 @@
+Removed Pin From Net: NetName=L6_N Pin=CNT5-42
+Removed Pin From Net: NetName=L6_P Pin=CNT5-43
+Removed Pin From Net: NetName=L4_N Pin=CNT5-45
+Removed Pin From Net: NetName=L4_P Pin=CNT5-46
+Removed Pin From Net: NetName=L4_N Pin=U4-A3
+Removed Pin From Net: NetName=L4_P Pin=U4-B4
+Removed Pin From Net: NetName=L6_N Pin=U4-D5
+Removed Pin From Net: NetName=L6_P Pin=U4-D6
+Removed Member From Class: ClassName=FPGA_BANK34 Member=L10
+Change Net Name : Old Net Name=AD4_N New Net Name=A7
+Change Net Name : Old Net Name=AD4_P New Net Name=B7
+Change Net Name : Old Net Name=AD5_N New Net Name=A4
+Change Net Name : Old Net Name=AD5_P New Net Name=A5
+Change Net Name : Old Net Name=AD6_N New Net Name=C2
+Change Net Name : Old Net Name=AD6_P New Net Name=C3
+Change Net Name : Old Net Name=AD7_N New Net Name=B1
+Change Net Name : Old Net Name=AD7_P New Net Name=C1
+Change Net Name : Old Net Name=AD12_N New Net Name=B5
+Change Net Name : Old Net Name=AD12_P New Net Name=B6
+Change Net Name : Old Net Name=AD13_N New Net Name=C6
+Change Net Name : Old Net Name=AD13_P New Net Name=C7
+Change Net Name : Old Net Name=AD14_N New Net Name=A2
+Change Net Name : Old Net Name=AD14_P New Net Name=B2
+Change Net Name : Old Net Name=AD15_N New Net Name=D1
+Change Net Name : Old Net Name=AD15_P New Net Name=E2
+Change Net Name : Old Net Name=L10 New Net Name=P5
+Change Net Name : Old Net Name=L11_N New Net Name=D3
+Change Net Name : Old Net Name=L11_P New Net Name=E3
+Change Net Name : Old Net Name=L12_N New Net Name=C4
+Change Net Name : Old Net Name=L12_P New Net Name=D4
+Change Net Name : Old Net Name=L13_N New Net Name=E5
+Change Net Name : Old Net Name=L13_P New Net Name=F5
+Change Net Name : Old Net Name=L14_N New Net Name=F3
+Change Net Name : Old Net Name=L14_P New Net Name=F4
+Change Net Name : Old Net Name=L15_N New Net Name=E1
+Change Net Name : Old Net Name=L15_P New Net Name=F2
+Change Net Name : Old Net Name=L16_N New Net Name=G4
+Change Net Name : Old Net Name=L16_P New Net Name=G5
+Change Net Name : Old Net Name=L17_N New Net Name=G1
+Change Net Name : Old Net Name=L17_P New Net Name=G2
+Change Net Name : Old Net Name=L18_N New Net Name=H4
+Change Net Name : Old Net Name=L18_P New Net Name=H5
+Change Net Name : Old Net Name=L19_N New Net Name=J4
+Change Net Name : Old Net Name=L19_P New Net Name=J5
+Change Net Name : Old Net Name=L20_N New Net Name=H1
+Change Net Name : Old Net Name=L20_P New Net Name=H2
+Change Net Name : Old Net Name=L21_N New Net Name=H3
+Change Net Name : Old Net Name=L21_P New Net Name=J3
+Change Net Name : Old Net Name=L22_N New Net Name=J1
+Change Net Name : Old Net Name=L22_P New Net Name=K1
+Change Net Name : Old Net Name=L23_N New Net Name=L2
+Change Net Name : Old Net Name=L23_P New Net Name=L3
+Change Net Name : Old Net Name=L24_N New Net Name=K2
+Change Net Name : Old Net Name=L24_P New Net Name=K3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Added Pin To Net: NetName=A3 Pin=CNT5-45
+Added Pin To Net: NetName=A3 Pin=U4-A3
+Added Net: Name=A3
+Added Pin To Net: NetName=B4 Pin=CNT5-46
+Added Pin To Net: NetName=B4 Pin=U4-B4
+Added Net: Name=B4
+Added Pin To Net: NetName=D5 Pin=CNT5-42
+Added Pin To Net: NetName=D5 Pin=U4-D5
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=CNT5-43
+Added Pin To Net: NetName=D6 Pin=U4-D6
+Added Net: Name=D6
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire A2
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire A3
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire A4
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire A5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire A7
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire B1
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire B2
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire B4
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire B5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire B6
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire B7
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire C1
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire C2
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire C3
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire C4
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire C6
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire C7
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire D1
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire D3
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire D4
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire D5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire D6
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire E1
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire E2
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire E3
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire E5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire F2
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire F3
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire F4
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire F5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire G1
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire G2
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire G4
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire G5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire H1
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire H2
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire H3
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire H4
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire H5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire J1
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire J3
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire J4
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire J5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire K1
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire K2
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire K3
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire L2
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire L3
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire M6
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire M15
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire N6
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire N9
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire N11
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire N12
+Added Member To Class: ClassName=FPGA_BANK34 Member=Wire P5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire P8
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire P9
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire P10
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire P11
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire P14
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire R5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire R6
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire R7
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire R8
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire R10
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire R11
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire R12
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire R13
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire RESET
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire T5
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire T7
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire T8
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire T9
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire T10
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire T12
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire T13
+Change Rule Scope 1 : Old Scope=InNet('LDM') New Scope=InNet('UDM')
+Change Rule Scope 1 : Old Scope=InNet('W\E\') New Scope=InNet('C\A\S\')
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=AD4
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=AD5
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=AD6
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=AD7
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=AD12
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=AD13
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=AD14
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=AD15
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L11
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L12
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L13
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L14
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L15
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L16
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L17
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L18
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L19
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L20
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L21
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L22
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L23
+Removed Member From Class: ClassName=FPGA_PORT35_DIFF Member=L24

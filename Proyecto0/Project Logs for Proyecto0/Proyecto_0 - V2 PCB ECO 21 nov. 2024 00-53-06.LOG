@@ -1,0 +1,32 @@
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Impedance Constraint_11
+Added Rule: Name=Schematic Impedance Constraint_12
+Added Rule: Name=Schematic Impedance Constraint_15
+Added Rule: Name=Schematic Matched Net Lengths_12
+Added Rule: Name=Schematic Matched Net Lengths_13
+Change Rule Scope 1 : Old Scope=InNet('UDM') New Scope=InNet('LDM')
+Change Rule Scope 1 : Old Scope=InNet('C\A\S\') New Scope=InNet('R\A\S\')
+Change Rule Scope 1 : Old Scope=InNet('L15_N') New Scope=InNet('L11_N')
+Change Rule Scope 1 : Old Scope=InNet('L11_N') New Scope=InNet('L21_N')
+Change Rule Scope 1 : Old Scope=InNet('L21_N') New Scope=InNet('L19_N')
+Change Rule Scope 1 : Old Scope=InNet('AD6_N') New Scope=InNet('L24_N')
+Change Rule Scope 1 : Old Scope=InNet('L13_N') New Scope=InNet('L24_N')
+Change Rule Scope 1 : Old Scope=InNet('L24_N') New Scope=InNet('AD6_N')

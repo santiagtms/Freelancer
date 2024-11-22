@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=N6 Pin=U4-K13
+Removed Pin From Net: NetName=T5 Pin=U4-N6
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R5
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R6
+Added Pin To Net: NetName=N6 Pin=U4-N6
+Added Pin To Net: NetName=T5 Pin=U4-T5
+Change Net Name : Old Net Name=M6 New Net Name=L13
+Change Net Name : Old Net Name= New Net Name=L5_N
+Change Net Name : Old Net Name=R5 New Net Name=M6
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Added Pin To Net: NetName=K13 Pin=CNT2-28
+Added Pin To Net: NetName=K13 Pin=U4-K13
+Added Net: Name=K13
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire K13
+Added Member To Class: ClassName=FPGA_BANK14 Member=Wire L13
