@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=FPGA_BANK14 Member=K13
+Removed Member From Class: ClassName=FPGA_BANK14 Member=L13
+Removed Member From Class: ClassName=FPGA_BANK14 Member=M6
+Removed Member From Class: ClassName=FPGA_BANK14 Member=M15
+Removed Member From Class: ClassName=FPGA_BANK14 Member=N6
+Removed Member From Class: ClassName=FPGA_BANK14 Member=N9
+Removed Member From Class: ClassName=FPGA_BANK14 Member=N11
+Removed Member From Class: ClassName=FPGA_BANK14 Member=N12
+Removed Member From Class: ClassName=FPGA_BANK14 Member=N13
+Removed Member From Class: ClassName=FPGA_BANK14 Member=P8
+Removed Member From Class: ClassName=FPGA_BANK14 Member=P9
+Removed Member From Class: ClassName=FPGA_BANK14 Member=P10
+Removed Member From Class: ClassName=FPGA_BANK14 Member=P11
+Removed Member From Class: ClassName=FPGA_BANK14 Member=P13
+Removed Member From Class: ClassName=FPGA_BANK14 Member=P14
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R7
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R8
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R10
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R11
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R12
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R13
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R15
+Removed Member From Class: ClassName=FPGA_BANK14 Member=R16
+Removed Member From Class: ClassName=FPGA_BANK14 Member=RESET
+Removed Member From Class: ClassName=FPGA_BANK14 Member=T5
+Removed Member From Class: ClassName=FPGA_BANK14 Member=T7
+Removed Member From Class: ClassName=FPGA_BANK14 Member=T8
+Removed Member From Class: ClassName=FPGA_BANK14 Member=T9
+Removed Member From Class: ClassName=FPGA_BANK14 Member=T10
+Removed Member From Class: ClassName=FPGA_BANK14 Member=T12
+Removed Member From Class: ClassName=FPGA_BANK14 Member=T13
+Removed Member From Class: ClassName=FPGA_BANK14 Member=T14
+Removed Member From Class: ClassName=FPGA_BANK14 Member=T15
+Change Class Name : Old Net Name=FPGA_BANK14 New Net Name=FPGA_BANK35
+Added Class: Name=FPGA_BANK14
+Added Rule: Name=Schematic Clearance Constraint_22
+Added Rule: Name=Schematic Impedance Constraint_11
+Added Rule: Name=Schematic Matched Net Lengths_33
+Added Rule: Name=Schematic Width Constraint_4

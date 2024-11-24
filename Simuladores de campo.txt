@@ -14,3 +14,11 @@ https://eda.sw.siemens.com/en-US/pcb/hyperlynx/3d-em/hyperlynx-full-wave-solver/
 Gratis
 https://www.sonnetsoftware.com/products/sonnet-suites/
 https://www.sonnetsoftware.com/products/lite/
+
+
+Chequear este software
+https://robustcircuitdesign.com/signal-chain-explorer/
+
+Wikis interesantes
+https://referencedesigner.com/books/si/Signal-Integrity-for-PCB-Designers-by-Vikas-Shukla-Preface.php
+https://referencedesigner.com/tutorials/si/si_02.php

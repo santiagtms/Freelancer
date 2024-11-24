@@ -1,0 +1,13 @@
+Change Pin Designator/Name:  Old Designator=U4E-G2 Old Name=IO_L17P_T2_35 New Designator =IO_L20P_T3_35 New Name=H2
+Change Pin Designator/Name:  Old Designator=U4E-H1 Old Name=IO_L20N_T3_35 New Designator =IO_L19N_T3_VREF_35 New Name=J4
+Change Pin Designator/Name:  Old Designator=U4E-H2 Old Name=IO_L20P_T3_35 New Designator =IO_L21P_T3_DQS_35 New Name=J3
+Change Pin Designator/Name:  Old Designator=U4E-K2 Old Name=IO_L24N_T3_35 New Designator =IO_L23N_T3_35 New Name=L2
+Change Pin Designator/Name:  Old Designator=U4E-K3 Old Name=IO_L24P_T3_35 New Designator =IO_L23P_T3_35 New Name=L3
+Change Pin Designator/Name:  Old Designator=U4E-K5 Old Name=IO_25_35 New Designator =IO_L24P_T3_35 New Name=K3
+Change Pin Designator/Name:  Old Designator=U4E-J1 Old Name=IO_L22N_T3_35 New Designator =IO_L19P_T3_35 New Name=J5
+Change Pin Designator/Name:  Old Designator=U4E-J3 Old Name=IO_L21P_T3_DQS_35 New Designator =IO_L24N_T3_35 New Name=K2
+Change Pin Designator/Name:  Old Designator=U4E-J4 Old Name=IO_L19N_T3_VREF_35 New Designator =IO_L22N_T3_35 New Name=J1
+Change Pin Designator/Name:  Old Designator=U4E-J5 Old Name=IO_L19P_T3_35 New Designator =IO_L20N_T3_35 New Name=H1
+Change Pin Designator/Name:  Old Designator=U4E-K1 Old Name=IO_L22P_T3_35 New Designator =IO_25_35 New Name=K5
+Change Pin Designator/Name:  Old Designator=U4E-L2 Old Name=IO_L23N_T3_35 New Designator =IO_L17P_T2_35 New Name=G2
+Change Pin Designator/Name:  Old Designator=U4E-L3 Old Name=IO_L23P_T3_35 New Designator =IO_L22P_T3_35 New Name=K1
