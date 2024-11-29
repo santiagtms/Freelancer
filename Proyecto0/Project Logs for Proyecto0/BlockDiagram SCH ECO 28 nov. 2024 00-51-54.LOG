@@ -1,0 +1,7 @@
+Change Pin Designator/Name:  Old Designator=U4B-M12 Old Name=IO_L6N_T0_D08_VREF_14 New Designator =IO_L4N_T0_D05_14 New Name=M14
+Change Pin Designator/Name:  Old Designator=U4B-K12 Old Name=IO_0_14 New Designator =IO_L4P_T0_D04_14 New Name=L14
+Change Pin Designator/Name:  Old Designator=U4B-M14 Old Name=IO_L4N_T0_D05_14 New Designator =IO_L6N_T0_D08_VREF_14 New Name=M12
+Change Pin Designator/Name:  Old Designator=U4B-T14 Old Name=IO_L10P_T1_D14_14 New Designator =IO_L15P_T2_DQS_RDWR_B_14 New Name=R12
+Change Pin Designator/Name:  Old Designator=U4B-R12 Old Name=IO_L15P_T2_DQS_RDWR_B_14 New Designator =IO_L10P_T1_D14_14 New Name=T14
+Change Pin Designator/Name:  Old Designator=U4B-L13 Old Name=IO_L5N_T0_D07_14 New Designator =IO_0_14 New Name=K12
+Change Pin Designator/Name:  Old Designator=U4B-L14 Old Name=IO_L4P_T0_D04_14 New Designator =IO_L5N_T0_D07_14 New Name=L13
