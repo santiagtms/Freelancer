@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+1V8 Pin=CNT4-14
+Removed Pin From Net: NetName=+1V8 Pin=CNT4-15
+Removed Pin From Net: NetName=AGND Pin=CNT4-36
+Removed Pin From Net: NetName=+1V25_VREF_ADC Pin=CNT4-37
+Added Pin To Net: NetName=+1V25_VREF_ADC Pin=CNT4-14
+Added Pin To Net: NetName=AGND Pin=CNT4-15
+Added Pin To Net: NetName=+1V8 Pin=CNT4-36
+Added Pin To Net: NetName=+1V8 Pin=CNT4-37

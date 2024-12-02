@@ -1,0 +1,10 @@
+Change Pin Designator/Name:  Old Designator=CNT4-18 Old Name=18 New Designator =21 New Name=21
+Change Pin Designator/Name:  Old Designator=CNT4-17 Old Name=17 New Designator =20 New Name=20
+Change Pin Designator/Name:  Old Designator=CNT4-21 Old Name=21 New Designator =18 New Name=18
+Change Pin Designator/Name:  Old Designator=CNT4-20 Old Name=20 New Designator =17 New Name=17
+Change Pin Designator/Name:  Old Designator=U4E-E6 Old Name=IO_0_35 New Designator =IO_L18P_T2_35 New Name=H5
+Change Pin Designator/Name:  Old Designator=U4E-G4 Old Name=IO_L16N_T2_35 New Designator =IO_L17N_T2_35 New Name=G1
+Change Pin Designator/Name:  Old Designator=U4E-G5 Old Name=IO_L16P_T2_35 New Designator =IO_L18N_T2_35 New Name=H4
+Change Pin Designator/Name:  Old Designator=U4E-G1 Old Name=IO_L17N_T2_35 New Designator =IO_0_35 New Name=E6
+Change Pin Designator/Name:  Old Designator=U4E-H5 Old Name=IO_L18P_T2_35 New Designator =IO_L16N_T2_35 New Name=G4
+Change Pin Designator/Name:  Old Designator=U4E-H4 Old Name=IO_L18N_T2_35 New Designator =IO_L16P_T2_35 New Name=G5

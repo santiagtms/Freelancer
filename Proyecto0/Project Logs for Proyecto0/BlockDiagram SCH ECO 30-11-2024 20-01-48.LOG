@@ -1,0 +1,121 @@
+Change Net Color : Net Name= 100MHz Old Net Color=RGB(253, 131, 0) New Net Color=Default
+Change Net Color : Net Name= +1V8' Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Net Name= +1V8 Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Net Name= +1V35 Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Net Name= +1V Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Net Name= +3V3/+1V8 Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Net Name= +3V3 Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Net Name= +5V Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Net Name= A2 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= A3 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= A4 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= A5 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= A7 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= B1 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= B2 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= B4 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= B5 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= B6 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= B7 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= C1 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= C2 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= C3 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= C4 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= C6 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= C7 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= CONFIG_TCK Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= CONFIG_TDI Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= CONFIG_TDO Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= CONFIG_TMS Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= D1 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= D3 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= D4 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= D5 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= D6 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= DONE Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= E1 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= E2 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= E3 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= E5 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= EEPROM_CLK Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= EEPROM_CS Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= EEPROM_DATA Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= F2 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= F3 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= F4 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= F5 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= G1 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= G2 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= G4 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= G5 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= H1 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= H2 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= H3 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= H4 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= H5 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= IN_Filter_ADC_N Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= IN_Filter_ADC_P Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= J1 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= J3 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= J4 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= J5 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= K1 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= L1_N Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L1_P Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L2 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= L2_N Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L2_P Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L3 Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= L3_N Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L3_P Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L4_N Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L4_P Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L5 Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L5_N Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L5_P Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L6_N Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L6_P Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L7_N Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L7_P Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L8_N Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L8_P Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L9_N Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= L9_P Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= NetR17_1 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= P5 Old Net Color=RGB(110, 255, 255) New Net Color=Default
+Change Net Color : Net Name= PROGRAM_B Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= QSPI_DATA0 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= QSPI_DATA1 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= QSPI_DATA2 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= QSPI_DATA3 Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= RESET Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= VSelect Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Pin Designator/Name:  Old Designator=CNT4-27 Old Name=27 New Designator =28 New Name=28
+Change Pin Designator/Name:  Old Designator=CNT4-30 Old Name=30 New Designator =31 New Name=31
+Change Pin Designator/Name:  Old Designator=CNT4-31 Old Name=31 New Designator =34 New Name=34
+Change Pin Designator/Name:  Old Designator=CNT4-28 Old Name=28 New Designator =30 New Name=30
+Change Pin Designator/Name:  Old Designator=CNT4-23 Old Name=23 New Designator =8 New Name=8
+Change Pin Designator/Name:  Old Designator=CNT4-17 Old Name=17 New Designator =18 New Name=18
+Change Pin Designator/Name:  Old Designator=CNT4-18 Old Name=18 New Designator =17 New Name=17
+Change Pin Designator/Name:  Old Designator=CNT4-6 Old Name=6 New Designator = New Name=3
+Change Pin Designator/Name:  Old Designator=CNT4-3 Old Name= New Designator =6 New Name=6
+Change Pin Designator/Name:  Old Designator=CNT4-24 Old Name=24 New Designator =9 New Name=9
+Change Pin Designator/Name:  Old Designator=CNT4-9 Old Name=9 New Designator =24 New Name=24
+Change Pin Designator/Name:  Old Designator=CNT4-8 Old Name=8 New Designator =23 New Name=23
+Change Pin Designator/Name:  Old Designator=CNT4-34 Old Name=34 New Designator =27 New Name=27
+Change Pin Designator/Name:  Old Designator=U1-33 Old Name=ACBUS6 New Designator =ACBUS4 New Name=30
+Change Pin Designator/Name:  Old Designator=U1-34 Old Name=ACBUS7 New Designator =ACBUS5 New Name=32
+Change Pin Designator/Name:  Old Designator=U1-32 Old Name=ACBUS5 New Designator =ACBUS2 New Name=28
+Change Pin Designator/Name:  Old Designator=U1-29 Old Name=ACBUS3 New Designator =ACBUS6 New Name=33
+Change Pin Designator/Name:  Old Designator=U1-28 Old Name=ACBUS2 New Designator =ACBUS7 New Name=34
+Change Pin Designator/Name:  Old Designator=U1-30 Old Name=ACBUS4 New Designator =ACBUS3 New Name=29
+Change Pin Designator/Name:  Old Designator=U4B-R16 Old Name=IO_L9N_T1_DQS_D13_14 New Designator =IO_L10N_T1_D15_14 New Name=T15
+Change Pin Designator/Name:  Old Designator=U4B-T15 Old Name=IO_L10N_T1_D15_14 New Designator =IO_L9P_T1_DQS_14 New Name=R15
+Change Pin Designator/Name:  Old Designator=U4B-M15 Old Name=IO_L3N_T0_DQS_EMCCLK_14 New Designator =IO_L9N_T1_DQS_D13_14 New Name=R16
+Change Pin Designator/Name:  Old Designator=U4B-P16 Old Name=IO_L8N_T1_D12_14 New Designator =IO_L8P_T1_D11_14 New Name=P15
+Change Pin Designator/Name:  Old Designator=U4B-P15 Old Name=IO_L8P_T1_D11_14 New Designator =IO_L8N_T1_D12_14 New Name=P16
+Change Pin Designator/Name:  Old Designator=U4B-R15 Old Name=IO_L9P_T1_DQS_14 New Designator =IO_L7N_T1_D10_14 New Name=N16
+Change Pin Designator/Name:  Old Designator=U4B-M16 Old Name=IO_L7P_T1_D09_14 New Designator =IO_L3N_T0_DQS_EMCCLK_14 New Name=M15
+Change Pin Designator/Name:  Old Designator=U4B-N16 Old Name=IO_L7N_T1_D10_14 New Designator =IO_L7P_T1_D09_14 New Name=M16
+Change Pin Designator/Name:  Old Designator=U4B-R6 Old Name=IO_L24P_T3_A01_D17_14 New Designator =IO_25_14 New Name=P6
+Change Pin Designator/Name:  Old Designator=U4B-P6 Old Name=IO_25_14 New Designator =IO_L24P_T3_A01_D17_14 New Name=R6

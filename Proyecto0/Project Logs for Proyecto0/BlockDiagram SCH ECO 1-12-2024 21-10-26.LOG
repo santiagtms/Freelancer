@@ -1,0 +1,6 @@
+Change Pin Designator/Name:  Old Designator=U4E-D4 Old Name=IO_L12P_T1_MRCC_35 New Designator =IO_L1P_T0_AD4P_35 New Name=B7
+Change Pin Designator/Name:  Old Designator=U4E-E5 Old Name=IO_L13N_T2_MRCC_35 New Designator =IO_L12P_T1_MRCC_35 New Name=D4
+Change Pin Designator/Name:  Old Designator=U4E-A5 Old Name=IO_L3P_T0_DQS_AD5P_35 New Designator =IO_L2N_T0_AD12N_35 New Name=B5
+Change Pin Designator/Name:  Old Designator=U4E-A7 Old Name=IO_L1N_T0_AD4N_35 New Designator =IO_L13N_T2_MRCC_35 New Name=E5
+Change Pin Designator/Name:  Old Designator=U4E-B5 Old Name=IO_L2N_T0_AD12N_35 New Designator =IO_L3P_T0_DQS_AD5P_35 New Name=A5
+Change Pin Designator/Name:  Old Designator=U4E-B7 Old Name=IO_L1P_T0_AD4P_35 New Designator =IO_L1N_T0_AD4N_35 New Name=A7
