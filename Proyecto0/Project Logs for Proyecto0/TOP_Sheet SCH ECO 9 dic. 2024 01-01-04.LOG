@@ -1,0 +1,137 @@
+Change Net Color : Net Name= 100MHz Old Net Color=Default New Net Color=RGB(253, 131, 0)
+Change Net Color : Net Name= +1V8' Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= +1V8 Old Net Color=Default New Net Color=RGB(0, 190, 0)
+Change Net Color : Net Name= +1V25_VREF_ADC Old Net Color=Default New Net Color=RGB(253, 131, 0)
+Change Net Color : Net Name= +1V Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= +3V3/+1V8 Old Net Color=Default New Net Color=RGB(222, 79, 22)
+Change Net Color : Net Name= +3V3 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= +5V Old Net Color=Default New Net Color=RGB(255, 110, 110)
+Change Net Color : Net Name= A2 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= A3 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= A4 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= A5 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= A7 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= ADC_IN_N Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= ADC_IN_P Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= AGND Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= B1 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= B2 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= B4 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= B5 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= B6 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= B7 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= BVUS Old Net Color=Default New Net Color=RGB(255, 110, 110)
+Change Net Color : Net Name= BVUS_PROTECTED Old Net Color=Default New Net Color=RGB(255, 110, 110)
+Change Net Color : Net Name= C1 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= C2 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= C3 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= C4 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= C6 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= C7 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= CONFIG_TCK Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= CONFIG_TCK_T Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= CONFIG_TDI Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= CONFIG_TDI_T Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= CONFIG_TDO Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= CONFIG_TMS Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= CONFIG_TMS_T Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= D1 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= D3 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= D4 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= D5 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= D6 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= DONE Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= E1 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= E2 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= E3 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= E5 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= E6 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= F2 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= F3 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= F4 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= F5 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= G1 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= G2 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= G4 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= G5 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= H1 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= H2 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= H3 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= H4 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= H5 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= IN_Filter_ADC_N Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= IN_Filter_ADC_P Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= J1 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= J3 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= J4 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= J5 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= K1 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= K2 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= K3 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= K5 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= K13 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= L1_N Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L1_P Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L2 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= L2_N Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L2_P Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L3 Old Net Color=Default New Net Color=Yellow
+Change Net Color : Net Name= L3_N Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L3_P Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L4_N Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L4_P Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L5 Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L5_N Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L5_P Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L6_N Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L6_P Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L7_N Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L7_P Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L8_N Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L8_P Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L9_N Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L9_P Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= L13 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= M6 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= M15 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= N6 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= N9 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= N11 Old Net Color=Default New Net Color=RGB(253, 131, 0)
+Change Net Color : Net Name= N12 Old Net Color=Default New Net Color=RGB(253, 131, 0)
+Change Net Color : Net Name= N13 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= P5 Old Net Color=Default New Net Color=RGB(110, 255, 255)
+Change Net Color : Net Name= P8 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= P9 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= P10 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= P11 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= P13 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= P14 Old Net Color=Default New Net Color=RGB(253, 131, 0)
+Change Net Color : Net Name= PROGRAM_B Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= QSPI_DATA0 Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= QSPI_DATA0_T Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= QSPI_DATA1 Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= QSPI_DATA1_T Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= QSPI_DATA2_T Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= QSPI_DATA3 Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= QSPI_DATA3_T Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= R7 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= R8 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= R10 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= R11 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= R12 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= R13 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= R15 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= R16 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= RESET Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= T5 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= T7 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= T8 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= T9 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= T10 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= T12 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= T13 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= T14 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= T15 Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= UART_RX Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= UART_TX Old Net Color=Default New Net Color=RGB(255, 110, 255)
+Change Net Color : Net Name= VSelect Old Net Color=Default New Net Color=RGB(255, 110, 255)
