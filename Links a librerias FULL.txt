@@ -1,3 +1,0 @@
-Altium-library se descarga de Git: https://github.com/issus/altium-library/tree/master				   https://altiumlibrary.com/Features
-
-Libraries.zip es una libreria descargada de la pagina de altium: https://techdocs.altium.com/display/ADOH/Download%2BLibraries

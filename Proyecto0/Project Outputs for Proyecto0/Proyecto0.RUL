@@ -1,0 +1,22 @@
+DRC Rules Export File for PCB: E:\Santiago\Diseño PCB\Proyecto0_V2\Proyecto0\Proyecto0.PcbDoc
+RuleKind=Clearance|RuleName=Any_Net_To_Any_Net|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_GND|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=WIDTH_DDR_DATA|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Diff_DDR_CLK_Betwen_any|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=Width_Leds&Button|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=FPGA_UART_SIGNALS|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=FPGA_CONFIG_2|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=FPGA_CONFIG_1|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=FLASH_SPI_T|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=FLASH_SPI|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=EEPROM|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=WIDTH_DDR_CTRL|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=WIDTH_DDR_ADD/CMD|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=100MHz|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Bank_34|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Bank_35|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Bank_14|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Diff_DDR_CLK_Betwen_DiffPair|Scope=Board|Minimum=20.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

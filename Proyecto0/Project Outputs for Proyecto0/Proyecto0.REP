@@ -1,0 +1,473 @@
+*************************************************************
+FileName = Proyecto0.GBR
+AutoAperture = True
+*************************************************************
+Generating : BOT
+      File : Proyecto0.GBL
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D55
+    D60
+    D62
+    D65
+    D67
+    D84
+    D89
+    D90
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D100
+    D104
+    D105
+    D106
+    D107
+    D108
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+*************************************************************
+
+*************************************************************
+Generating : VDD[3]
+      File : Proyecto0.GP6
+
+    Adding Layer      : VDD[3]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : GND[3]
+      File : Proyecto0.GP5
+
+    Adding Layer      : GND[3]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Proyecto0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Signal[2]
+      File : Proyecto0.G2
+
+    Adding Layer      : Signal[2]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D55
+    D60
+    D62
+    D97
+    D105
+    D106
+    D108
+*************************************************************
+
+*************************************************************
+Generating : VDD[2]
+      File : Proyecto0.GP4
+
+    Adding Layer      : VDD[2]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Proyecto0.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D18
+    D19
+    D134
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Proyecto0.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+    D13
+    D15
+    D16
+    D20
+    D101
+*************************************************************
+
+*************************************************************
+Generating : GND[2]
+      File : Proyecto0.GP3
+
+    Adding Layer      : GND[2]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : TOP
+      File : Proyecto0.GTL
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D33
+    D34
+    D55
+    D60
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+*************************************************************
+
+*************************************************************
+Generating : GND[1]
+      File : Proyecto0.GP1
+
+    Adding Layer      : GND[1]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : VDD[1]
+      File : Proyecto0.GP2
+
+    Adding Layer      : VDD[1]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D18
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Proyecto0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D13
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Proyecto0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Proyecto0.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Signal[1]
+      File : Proyecto0.G1
+
+    Adding Layer      : Signal[1]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D55
+    D60
+    D105
+    D106
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Proyecto0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D25
+    D44
+    D49
+    D50
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Proyecto0.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Proyecto0.GD1
+
+    Adding Drill Pair : TOP-BOT
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D18
+    D97
+    D135
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Proyecto0.GG1
+
+    Adding Drill Pair : TOP-BOT
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D18
+*************************************************************
+

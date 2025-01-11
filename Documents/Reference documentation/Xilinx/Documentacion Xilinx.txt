@@ -1,0 +1,7 @@
+7 Series Product Tables and Product Selection Guide (XMP101)
+7 Series FPGAs Configuration User Guide (UG470)
+7 Series FPGAs PCB Design Guide (UG483)
+7 Series FPGAs Packaging and Pinout Product Specification (UG475)
+Artix 7 FPGAs Data Sheet: DC and AC Switching Characteristics (DS181)
+7 Series FPGAs and Zynq-7000 SoC XADC Dual 12-Bit 1 MSPS Analog-to-Digital Converter User Guide (UG480)
+
